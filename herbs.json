@@ -1,3710 +1,620 @@
 [
- {
-   "A": "学名 ",
-   "B": "中文名",
-   "C": "拉丁名",
-   "D": "分类"
- },
- {
-   "A": "千金子",
-   "B": "千金子",
-   "C": "Euphorbiae Semen",
-   "D": "毒性药材"
- },
- {
-   "A": "天仙子",
-   "B": "天仙子",
-   "C": "Hyoscyami Semen",
-   "D": "毒性药材"
- },
- {
-   "A": "巴豆",
-   "B": "巴豆",
-   "C": "Crotonis Fructus",
-   "D": "毒性药材"
- },
- {
-   "A": "水銀",
-   "B": "水银",
-   "C": "Hydrargyrum",
-   "D": "毒性药材"
- },
- {
-   "A": "甘遂",
-   "B": "甘遂",
-   "C": "Kansui Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "生川烏",
-   "B": "生川乌",
-   "C": "Aconiti Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "生天南星",
-   "B": "生天南星",
-   "C": "Arisaematis Rhizoma",
-   "D": "毒性药材"
- },
- {
-   "A": "生半夏",
-   "B": "生半夏",
-   "C": "Pinelliae Rhizoma",
-   "D": "毒性药材"
- },
- {
-   "A": "生白附子",
-   "B": "生白附子",
-   "C": "Typhonii Rhizoma",
-   "D": "毒性药材"
- },
- {
-   "A": "生附子",
-   "B": "生附子",
-   "C": "Aconiti Lateralis Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "生草烏",
-   "B": "生草乌",
-   "C": "Aconiti Kusnezoffii Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "白降丹",
-   "B": "白降丹",
-   "C": "Hydrargyrum Chloratum Compositum",
-   "D": "毒性药材"
- },
- {
-   "A": "朱砂／靈砂",
-   "B": "朱砂／灵砂",
-   "C": "Cinnabaris / Cinnabaris Artificialis",
-   "D": "毒性药材"
- },
- {
-   "A": "京大戟",
-   "B": "京大戟",
-   "C": "Euphorbiae Pekinensis Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "芫花",
-   "B": "芫花",
-   "C": "Genkwa Flos",
-   "D": "毒性药材"
- },
- {
-   "A": "青娘子",
-   "B": "青娘子",
-   "C": "Lytta Caraganae",
-   "D": "毒性药材"
- },
- {
-   "A": "洋金花",
-   "B": "洋金花",
-   "C": "Daturae Flos",
-   "D": "毒性药材"
- },
- {
-   "A": "砒石",
-   "B": "砒石",
-   "C": "Arsenolitum",
-   "D": "毒性药材"
- },
- {
-   "A": "砒霜",
-   "B": "砒霜",
-   "C": "Arsenolitum Sublimatum",
-   "D": "毒性药材"
- },
- {
-   "A": "紅娘子",
-   "B": "红娘子",
-   "C": "Huechys Sanguinea, Huechys Philaemata",
-   "D": "毒性药材"
- },
- {
-   "A": "紅粉／紅升丹",
-   "B": "红粉／红升丹",
-   "C": "Hydrargyri Oxydum Rubrum",
-   "D": "毒性药材"
- },
- {
-   "A": "狼毒",
-   "B": "狼毒",
-   "C": "Euphorbiae Ebracteolatae Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "馬錢子",
-   "B": "马钱子",
-   "C": "Strychni Semen",
-   "D": "毒性药材"
- },
- {
-   "A": "雪上一枝蒿",
-   "B": "雪上一枝蒿",
-   "C": "Aconiti Brachypodi Radix",
-   "D": "毒性药材"
- },
- {
-   "A": "斑蝥",
-   "B": "斑蝥",
-   "C": "Mylabris",
-   "D": "毒性药材"
- },
- {
-   "A": "雄黃",
-   "B": "雄黄",
-   "C": "Realgar",
-   "D": "毒性药材"
- },
- {
-   "A": "輕粉",
-   "B": "轻粉",
-   "C": "Calomelas",
-   "D": "毒性药材"
- },
- {
-   "A": "雌黃",
-   "B": "雌黄",
-   "C": "Orpimentum",
-   "D": "毒性药材"
- },
- {
-   "A": "鬧羊花",
-   "B": "闹羊花",
-   "C": "Rhododendri Mollis Flos",
-   "D": "毒性药材"
- },
- {
-   "A": "藤黃",
-   "B": "藤黄",
-   "C": "Garciniae Resina",
-   "D": "毒性药材"
- },
- {
-   "A": "蟾酥",
-   "B": "蟾酥",
-   "C": "Bufonis Venenum",
-   "D": "毒性药材"
- },
- {
-   "A": "一枝黃花",
-   "B": "一枝黄花",
-   "C": "Solidaginis Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "丁公藤",
-   "B": "丁公藤",
-   "C": "Erycibes Caulis",
-   "D": "处方普通中药材"
- },
- {
-   "A": "九龍川",
-   "B": "九龙川",
-   "C": "Crotonis Tiglii Caulis Et Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "了哥王",
-   "B": "了哥王",
-   "C": "Wikstroemiae Indicae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "八角楓",
-   "B": "八角枫",
-   "C": "Alangii Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "八角蓮",
-   "B": "八角莲",
-   "C": "Dysosmatis Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "三棱",
-   "B": "三棱",
-   "C": "Sparganii Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "千金子霜",
-   "B": "千金子霜",
-   "C": "Euphorbiae Semen Pulveratum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "土荊皮",
-   "B": "土荆皮",
-   "C": "Pseudolaricis Cortex",
-   "D": "处方普通中药材"
- },
- {
-   "A": "土鱉蟲（䗪蟲）",
-   "B": "土鳖虫（䗪虫）",
-   "C": "Eupolyphaga Steleophaga",
-   "D": "处方普通中药材"
- },
- {
-   "A": "大皂角",
-   "B": "大皂角",
-   "C": "Gleditsiae Sinensis Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "大風子",
-   "B": "大风子",
-   "C": "Hydnocarpi Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "山豆根",
-   "B": "山豆根",
-   "C": "Sophorae Tonkinensis Radix Et Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "山慈菇",
-   "B": "山慈菇",
-   "C": "Cremastrae Pseudobulbus, Pleiones Pseudobulbus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "天山雪蓮",
-   "B": "天山雪莲",
-   "C": "Saussureae Involucratae Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "天仙藤",
-   "B": "天仙藤",
-   "C": "Aristolochiae Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "巴豆霜",
-   "B": "巴豆霜",
-   "C": "Crotonis Semen Pulveratum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "木鱉子",
-   "B": "木鳖子",
-   "C": "Momordicae Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "水半夏",
-   "B": "水半夏",
-   "C": "Typhonii Flagelliformis Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "水蛭",
-   "B": "水蛭",
-   "C": "Hirudo",
-   "D": "处方普通中药材"
- },
- {
-   "A": "牛耳楓",
-   "B": "牛耳枫",
-   "C": "Daphniphylli Caulis Et Folium",
-   "D": "处方普通中药材"
- },
- {
-   "A": "生關白附",
-   "B": "生关白附",
-   "C": "Aconiti Coreani Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "石蒲藤",
-   "B": "石蒲藤",
-   "C": "Pothi Chinensis Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "光慈菇",
-   "B": "光慈菇",
-   "C": "Tulipae Bulbus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "全蠍",
-   "B": "全蝎",
-   "C": "Scorpio",
-   "D": "处方普通中药材"
- },
- {
-   "A": "朱砂蓮",
-   "B": "朱砂莲",
-   "C": "Aristolochiae Tuberosae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "羊角拗",
-   "B": "羊角拗",
-   "C": "Strophanthi Divaricati Radix Et Caulis",
-   "D": "处方普通中药材"
- },
- {
-   "A": "何首烏",
-   "B": "何首乌",
-   "C": "Polygoni Multiflori Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "夾竹桃",
-   "B": "夹竹桃",
-   "C": "Nerii Folium",
-   "D": "处方普通中药材"
- },
- {
-   "A": "兩面針",
-   "B": "两面针",
-   "C": "Zanthoxyli Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "兩頭尖",
-   "B": "两头尖",
-   "C": "Anemones Raddeanae Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "昆明山海棠",
-   "B": "昆明山海棠",
-   "C": "Tripterygii Hypoglauci Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "法半夏",
-   "B": "法半夏",
-   "C": "Pinelliae Rhizoma Praeparatum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "金邊土鱉",
-   "B": "金边土鳖",
-   "C": "Opisthoplatia",
-   "D": "处方普通中药材"
- },
- {
-   "A": "金鐵鎖",
-   "B": "金铁锁",
-   "C": "Psammosilenes Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "阿魏",
-   "B": "阿魏",
-   "C": "Ferulae Resina",
-   "D": "处方普通中药材"
- },
- {
-   "A": "青葙子",
-   "B": "青葙子",
-   "C": "Celosiae Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "南鶴虱",
-   "B": "南鹤虱",
-   "C": "Carotae Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "急性子",
-   "B": "急性子",
-   "C": "Impatientis Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "春根藤",
-   "B": "春根藤",
-   "C": "Alyxiae Caulis",
-   "D": "处方普通中药材"
- },
- {
-   "A": "相思子",
-   "B": "相思子",
-   "C": "Abri Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "紅大戟",
-   "B": "红大戟",
-   "C": "Knoxiae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "苦豆草",
-   "B": "苦豆草",
-   "C": "Sophorae Alopecuroidis Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "苦楝子",
-   "B": "苦楝子",
-   "C": "Azedarach Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "苦楝皮",
-   "B": "苦楝皮",
-   "C": "Meliae Cortex",
-   "D": "处方普通中药材"
- },
- {
-   "A": "虻蟲",
-   "B": "虻虫",
-   "C": "Arylotus, Tabanus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "重樓",
-   "B": "重楼",
-   "C": "Paridis Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "香加皮",
-   "B": "香加皮",
-   "C": "Periplocae Cortex",
-   "D": "处方普通中药材"
- },
- {
-   "A": "桃兒七",
-   "B": "桃儿七",
-   "C": "Sinopodophylli Radix Et Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "草烏葉",
-   "B": "草乌叶",
-   "C": "Aconiti Kusnezoffii Folium",
-   "D": "处方普通中药材"
- },
- {
-   "A": "馬兜鈴",
-   "B": "马兜铃",
-   "C": "Aristolochiae Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "馬錢子粉",
-   "B": "马钱子粉",
-   "C": "Strychni Semen Pulveratum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "乾漆",
-   "B": "乾漆",
-   "C": "Toxicodendri Resina",
-   "D": "处方普通中药材"
- },
- {
-   "A": "商陸",
-   "B": "商陆",
-   "C": "Phytolaccae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "密陀僧",
-   "B": "密陀僧",
-   "C": "Lithargyrum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "常山",
-   "B": "常山",
-   "C": "Dichroae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "清半夏",
-   "B": "清半夏",
-   "C": "Pinelliae Rhizoma Praeparatum Cum Alumine",
-   "D": "处方普通中药材"
- },
- {
-   "A": "牽牛子",
-   "B": "牵牛子",
-   "C": "Pharbitidis Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "硫黃",
-   "B": "硫黄",
-   "C": "Sulfur",
-   "D": "处方普通中药材"
- },
- {
-   "A": "細辛",
-   "B": "细辛",
-   "C": "Asari Radix Et Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "莪朮",
-   "B": "莪术",
-   "C": "Curcumae Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "野顛茄",
-   "B": "野颠茄",
-   "C": "Solani Capsicoidis Ramulus Et Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "尋骨風",
-   "B": "寻骨风",
-   "C": "Aristolochiae Mollissimae Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "硝石",
-   "B": "硝石",
-   "C": "Nitrum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "華山參",
-   "B": "华山参",
-   "C": "Physochlainae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "鈎吻",
-   "B": "钩吻",
-   "C": "Gelsemii Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "黑草烏",
-   "B": "黑草乌",
-   "C": "Aconiti Balfourii Radix, Aconiti Szechenyiani Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "黑草烏葉",
-   "B": "黑草乌叶",
-   "C": "Aconiti Szechenyiani Folium",
-   "D": "处方普通中药材"
- },
- {
-   "A": "黑種草子",
-   "B": "黑种草子",
-   "C": "Nigellae Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "萱草根",
-   "B": "萱草根",
-   "C": "Hemerocallis Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "蜈蚣",
-   "B": "蜈蚣",
-   "C": "Scolopendra",
-   "D": "处方普通中药材"
- },
- {
-   "A": "雷公藤",
-   "B": "雷公藤",
-   "C": "Tripterygii Wilfordii Radix Et Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "榜嘎",
-   "B": "榜嘎",
-   "C": "Aconiti Navicularis Herba, Aconiti Tangutici Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "漆樹根",
-   "B": "漆树根",
-   "C": "Toxicodendri Sylvestris Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "綿馬貫眾",
-   "B": "绵马贯众",
-   "C": "Dryopteridis Crassirhizomatis Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "綿馬貫眾炭",
-   "B": "绵马贯众炭",
-   "C": "Dryopteridis Crassirhizomatis Rhizoma Carbonisatum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "蒼耳子",
-   "B": "苍耳子",
-   "C": "Xanthii Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "蓖麻子",
-   "B": "蓖麻子",
-   "C": "Ricini Semen",
-   "D": "处方普通中药材"
- },
- {
-   "A": "蜣螂",
-   "B": "蜣螂",
-   "C": "Catharsius",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製川烏",
-   "B": "制川乌",
-   "C": "Aconiti Radix Cocta",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製天南星",
-   "B": "制天南星",
-   "C": "Arisaematis Rhizoma Preparatum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製半夏",
-   "B": "制半夏",
-   "C": "Pinelliae Rhizoma Praeparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製甘遂",
-   "B": "制甘遂",
-   "C": "Kansui Radix Preparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製白附子",
-   "B": "制白附子",
-   "C": "Typhonii Rhizoma Praeparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製何首烏",
-   "B": "制何首乌",
-   "C": "Polygoni Multiflori Radix Praeparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製京大戟",
-   "B": "制京大戟",
-   "C": "Euphorbiae Pekinensis Radix Preparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製附子",
-   "B": "制附子",
-   "C": "Aconiti Lateralis Radix Praeparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製草烏",
-   "B": "制草乌",
-   "C": "Aconiti Kusnezoffii Radix Cocta",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製馬錢子",
-   "B": "制马钱子",
-   "C": "Strychni Semen Preparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "製關白附",
-   "B": "制关白附",
-   "C": "Aconiti Coreani Radix Praeparata",
-   "D": "处方普通中药材"
- },
- {
-   "A": "膜葉槌果藤",
-   "B": "膜叶槌果藤",
-   "C": "Capparis Membraceae Radix",
-   "D": "处方普通中药材"
- },
- {
-   "A": "豬牙皂",
-   "B": "猪牙皂",
-   "C": "Gleditsiae Fructus Abnormalis",
-   "D": "处方普通中药材"
- },
- {
-   "A": "鴉膽子",
-   "B": "鸦胆子",
-   "C": "Bruceae Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "磠砂",
-   "B": "硵砂",
-   "C": "Sal Ammoniacum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "膽礬",
-   "B": "胆矾",
-   "C": "Chalcanthitum",
-   "D": "处方普通中药材"
- },
- {
-   "A": "薑半夏",
-   "B": "姜半夏",
-   "C": "Pinelliae Rhizoma Praeparatum Cum Zingibere Et Alumine",
-   "D": "处方普通中药材"
- },
- {
-   "A": "藜蘆",
-   "B": "藜芦",
-   "C": "Veratri Nigri Radix Et Rhizoma",
-   "D": "处方普通中药材"
- },
- {
-   "A": "顛茄草",
-   "B": "颠茄草",
-   "C": "Belladonnae Herba",
-   "D": "处方普通中药材"
- },
- {
-   "A": "罌粟殼",
-   "B": "罂粟壳",
-   "C": "Papaveris Pericarpium",
-   "D": "处方普通中药材"
- },
- {
-   "A": "鶴虱",
-   "B": "鹤虱",
-   "C": "Carpesii Fructus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "麝香",
-   "B": "麝香",
-   "C": "Moschus",
-   "D": "处方普通中药材"
- },
- {
-   "A": "一枝蒿",
-   "B": "一枝蒿",
-   "C": "Artemisiae Rupestris Herba",
-   "D": "非处方普通中药材 "
- },
- {
-   "A": "一點紅",
-   "B": "一点红",
-   "C": "Emiliae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "九里香",
-   "B": "九里香",
-   "C": "Murrayae Folium Et Cacumen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "九香蟲",
-   "B": "九香虫",
-   "C": "Aspongopus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "九節菖蒲",
-   "B": "九节菖蒲",
-   "C": "Anemones Altaicae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "人工牛黃",
-   "B": "人工牛黄",
-   "C": "Bovis Calculus Artifactus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "三白草",
-   "B": "三白草",
-   "C": "Saururi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "三顆針",
-   "B": "三颗针",
-   "C": "Berberidis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "千斤拔",
-   "B": "千斤拔",
-   "C": "Flemingiae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "千年健",
-   "B": "千年健",
-   "C": "Homalomenae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "千里光",
-   "B": "千里光",
-   "C": "Senecionis Scandentis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "土木香",
-   "B": "土木香",
-   "C": "Inulae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "土貝母",
-   "B": "土贝母",
-   "C": "Bolbostemmatis Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "土荊芥",
-   "B": "土荆芥",
-   "C": "Chenopodii Ambrosioidis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "土槿皮",
-   "B": "土槿皮",
-   "C": "Cleistocalycis Operculati Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大血藤",
-   "B": "大血藤",
-   "C": "Sargentodoxae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大豆黃卷",
-   "B": "大豆黄卷",
-   "C": "Sojae Semen Germinatum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大青葉",
-   "B": "大青叶",
-   "C": "Isatidis Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大青鹽",
-   "B": "大青盐",
-   "C": "Halitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大黃",
-   "B": "大黄",
-   "C": "Rhei Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大腹皮",
-   "B": "大腹皮",
-   "C": "Arecae Pericarpium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大葉木蘭",
-   "B": "大叶木兰",
-   "C": "Magnoliae Rostratae Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大葉紫珠",
-   "B": "大叶紫珠",
-   "C": "Callicarpae Macrophyllae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "大薊炭",
-   "B": "大蓟炭",
-   "C": "Cirsii Japonici Herba Carbonisata",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "小百部",
-   "B": "小百部",
-   "C": "Asparagi Pseudofilicini Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "小通草",
-   "B": "小通草",
-   "C": "Stachyuri Medulla, Helwingiae Medulla",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "小葉蓮",
-   "B": "小叶莲",
-   "C": "Sinopodophylli Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "小駁骨",
-   "B": "小驳骨",
-   "C": "Gendarussae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山大顏",
-   "B": "山大颜",
-   "C": "Psycholriae Asiaticae Folium Et Cacumen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山白芷",
-   "B": "山白芷",
-   "C": "Inulae Cappae Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山羊角",
-   "B": "山羊角",
-   "C": "Caprae Hirci Cornu",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山芝麻",
-   "B": "山芝麻",
-   "C": "Helicteris Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山香圓葉",
-   "B": "山香圆叶",
-   "C": "Turpiniae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山海螺",
-   "B": "山海螺",
-   "C": "Codonopsis Lanceolatae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山麥冬",
-   "B": "山麦冬",
-   "C": "Liriopes Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "山葡萄",
-   "B": "山葡萄",
-   "C": "Vitis Adstrictae Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "川木香",
-   "B": "川木香",
-   "C": "Vladimiriae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "川木通",
-   "B": "川木通",
-   "C": "Clematidis Armandii Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "川牛膝",
-   "B": "川牛膝",
-   "C": "Cyathulae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "川射干",
-   "B": "川射干",
-   "C": "Iridis Tectori Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "川楝子",
-   "B": "川楝子",
-   "C": "Toosendan Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "五月艾",
-   "B": "五月艾",
-   "C": "Artemisiae Indicae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "五爪龍根",
-   "B": "五爪龙根",
-   "C": "Ipomoeae Cairicae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "五倍子",
-   "B": "五倍子",
-   "C": "Galla Chinensis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "五靈脂",
-   "B": "五灵脂",
-   "C": "Trogopterori Faeces",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "分心木",
-   "B": "分心木",
-   "C": "Juglantis Seminis Septum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "升麻",
-   "B": "升麻",
-   "C": "Cimicifugae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "天竺黃",
-   "B": "天竺黄",
-   "C": "Bambusae Concretio Silicea",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "天花粉",
-   "B": "天花粉",
-   "C": "Trichosanthis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "天然冰片（右旋龍腦）",
-   "B": "天然冰片（右旋龙脑）",
-   "C": "Borneolum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "天葵子",
-   "B": "天葵子",
-   "C": "Semiaquilegiae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "木芙蓉花",
-   "B": "木芙蓉花",
-   "C": "Hibisci Mutabilis Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "木芙蓉葉",
-   "B": "木芙蓉叶",
-   "C": "Hibisci Mutabilis Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "木通",
-   "B": "木通",
-   "C": "Akebiae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "木槿皮",
-   "B": "木槿皮",
-   "C": "Hibisci Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "木槿花",
-   "B": "木槿花",
-   "C": "Hibisci Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "木蝴蝶",
-   "B": "木蝴蝶",
-   "C": "Oroxyli Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "毛冬青",
-   "B": "毛冬青",
-   "C": "Ilicis Pubescentis Radix Et Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "毛訶子",
-   "B": "毛诃子",
-   "C": "Terminaliae Belliricae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "毛麝香",
-   "B": "毛麝香",
-   "C": "Adenosmae Glutinosi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "水牛角",
-   "B": "水牛角",
-   "C": "Bubali Cornu",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "水紅花子",
-   "B": "水红花子",
-   "C": "Polygoni Orientalis Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "水飛薊",
-   "B": "水飞蓟",
-   "C": "Silybi Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "水線草",
-   "B": "水线草",
-   "C": "Hedyotidis Corymbosae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "水獺肝",
-   "B": "水獭肝",
-   "C": "Lutrae Jecur",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "片薑黃",
-   "B": "片姜黄",
-   "C": "Wenyujin Rhizoma Concisum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "牛白藤",
-   "B": "牛白藤",
-   "C": "Hedyotidis Hedyotideae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "牛至",
-   "B": "牛至",
-   "C": "Origani Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "牛筋草",
-   "B": "牛筋草",
-   "C": "Eleusines Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "牛黃",
-   "B": "牛黄",
-   "C": "Bovis Calculus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "牛蒡草",
-   "B": "牛蒡草",
-   "C": "Arctii Lappae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "王不留行",
-   "B": "王不留行",
-   "C": "Vaccariae Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "仙茅",
-   "B": "仙茅",
-   "C": "Curculiginis Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "仙鶴草",
-   "B": "仙鹤草",
-   "C": "Agrimoniae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "冬凌草",
-   "B": "冬凌草",
-   "C": "Rabdosiae Rubescentis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "冬葵果",
-   "B": "冬葵果",
-   "C": "Malvae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "功勞木",
-   "B": "功劳木",
-   "C": "Mahoniae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "北豆根",
-   "B": "北豆根",
-   "C": "Menispermi Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "北寒水石",
-   "B": "北寒水石",
-   "C": "Gypsum Rubrum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "北劉寄奴",
-   "B": "北刘寄奴",
-   "C": "Siphonostegiae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "半枝蓮",
-   "B": "半枝莲",
-   "C": "Scutellariae Barbatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "半楓荷",
-   "B": "半枫荷",
-   "C": "Pterospermi Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "半邊旗",
-   "B": "半边旗",
-   "C": "Pteridis Semipinnatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "半邊蓮",
-   "B": "半边莲",
-   "C": "Lobeliae Chinensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "四季青",
-   "B": "四季青",
-   "C": "Ilicis Chinensis Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "玄明粉",
-   "B": "玄明粉",
-   "C": "Natrii Sulfas Exsiccatus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瓜子金",
-   "B": "瓜子金",
-   "C": "Polygalae Japonicae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瓜蔞",
-   "B": "瓜蒌",
-   "C": "Trichosanthis Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瓜蔞子",
-   "B": "瓜蒌子",
-   "C": "Trichosanthis Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瓜蔞皮",
-   "B": "瓜蒌皮",
-   "C": "Trichosanthis Pericarpium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瓦松",
-   "B": "瓦松",
-   "C": "Orostachyis Fimbriatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瓦楞子",
-   "B": "瓦楞子",
-   "C": "Arcae Concha",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "甘松",
-   "B": "甘松",
-   "C": "Nardostachyos Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白屈菜",
-   "B": "白屈菜",
-   "C": "Chelidonii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白前",
-   "B": "白前",
-   "C": "Cynanchi Stauntonii Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白眉草",
-   "B": "白眉草",
-   "C": "Gerberae Piloselloidis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白英",
-   "B": "白英",
-   "C": "Solani Lyrati Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白茅花",
-   "B": "白茅花",
-   "C": "Imperatae Majoris Inflorescentia",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白頭翁",
-   "B": "白头翁",
-   "C": "Pulsatillae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白薇",
-   "B": "白薇",
-   "C": "Cynanchi Atrati Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白鮮皮",
-   "B": "白鲜皮",
-   "C": "Dictamni Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白藥子",
-   "B": "白药子",
-   "C": "Stephaniae Cepharanthae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白礬",
-   "B": "白矾",
-   "C": "Alumen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "白蘞",
-   "B": "白蔹",
-   "C": "Ampelopsis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石上柏",
-   "B": "石上柏",
-   "C": "Selaginellae Doederleinii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石仙桃",
-   "B": "石仙桃",
-   "C": "Pholidotae Chinensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石吊蘭",
-   "B": "石吊兰",
-   "C": "Lysionoti Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石見穿",
-   "B": "石见穿",
-   "C": "Salviae Chinensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石韋",
-   "B": "石韦",
-   "C": "Pyrrosiae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石菖蒲",
-   "B": "石菖蒲",
-   "C": "Acori Tatarinowii Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石楠葉",
-   "B": "石楠叶",
-   "C": "Photiniae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石榴皮",
-   "B": "石榴皮",
-   "C": "Granati Pericarpium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石燕",
-   "B": "石燕",
-   "C": "Cyrtiospiriferis Fossilia",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "石蟹",
-   "B": "石蟹",
-   "C": "Brachyurae Fossllla",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "冰片（合成龍腦）",
-   "B": "冰片（合成龙脑）",
-   "C": "Borneolum Syntheticum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "合歡皮",
-   "B": "合欢皮",
-   "C": "Albiziae Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "合歡花",
-   "B": "合欢花",
-   "C": "Albiziae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地楓皮",
-   "B": "地枫皮",
-   "C": "Illicii Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地榆",
-   "B": "地榆",
-   "C": "Sanguisorbae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地稔",
-   "B": "地稔",
-   "C": "Melastomae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地膚子",
-   "B": "地肤子",
-   "C": "Kochiae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地錦草",
-   "B": "地锦草",
-   "C": "Euphorbiae Humifusae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地龍",
-   "B": "地龙",
-   "C": "Pheretima",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "地膽草",
-   "B": "地胆草",
-   "C": "Elephantopi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "安息香",
-   "B": "安息香",
-   "C": "Benzoinum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "朱砂根",
-   "B": "朱砂根",
-   "C": "Ardisiae Crenatae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "江南卷柏",
-   "B": "江南卷柏",
-   "C": "Selaginellae Moellendorfii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "百部",
-   "B": "百部",
-   "C": "Stemonae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "竹節參",
-   "B": "竹节参",
-   "C": "Panacis Japonici Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "竹葉柴胡",
-   "B": "竹叶柴胡",
-   "C": "Bupleuri Marginati Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "竹瀝",
-   "B": "竹沥",
-   "C": "Bambusae Succus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "羊耳菊",
-   "B": "羊耳菊",
-   "C": "Inulae Cappae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "老鸛草",
-   "B": "老鹳草",
-   "C": "Erodii Herba, Geranii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "自然銅",
-   "B": "自然铜",
-   "C": "Pyritum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "艾片（左旋龍腦）",
-   "B": "艾片（左旋龙脑）",
-   "C": "L-Borneolum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "艾納香",
-   "B": "艾纳香",
-   "C": "Blumeae Balsamiferae Folium Et Cacumen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "血竭",
-   "B": "血竭",
-   "C": "Draconis Sanguis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "血餘炭",
-   "B": "血余炭",
-   "C": "Crinis Carbonisatus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "西瓜霜",
-   "B": "西瓜霜",
-   "C": "Mirabilitum Praeparatum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "西河柳",
-   "B": "西河柳",
-   "C": "Tamaricis Cacumen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "西青果",
-   "B": "西青果",
-   "C": "Chebulae Fructus Immaturus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "伸筋草",
-   "B": "伸筋草",
-   "C": "Lycopodii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "佛手花",
-   "B": "佛手花",
-   "C": "Citri Sarcodactylis Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "忍冬藤",
-   "B": "忍冬藤",
-   "C": "Lonicerae Japonicae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "扭肚藤",
-   "B": "扭肚藤",
-   "C": "Jasmini Elongati Cacumen Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "扶芳藤",
-   "B": "扶芳藤",
-   "C": "Euonymi Fortunei Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "杜仲藤",
-   "B": "杜仲藤",
-   "C": "Parabarii Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "杠板歸",
-   "B": "杠板归",
-   "C": "Polygoni Perfoliati Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "沉香",
-   "B": "沉香",
-   "C": "Aquilariae Lignum Resinatum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "沒食子",
-   "B": "没食子",
-   "C": "Galla Turcica",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "沒藥",
-   "B": "没药",
-   "C": "Myrrha",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "牡荊葉",
-   "B": "牡荆叶",
-   "C": "Viticis Negundo Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "皂角刺",
-   "B": "皂角刺",
-   "C": "Gleditsiae Spina",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "皂礬（綠礬）",
-   "B": "皂矾（绿矾）",
-   "C": "Melanteritum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "芒硝",
-   "B": "芒硝",
-   "C": "Natrii Sulfas",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "豆豉薑",
-   "B": "豆豉姜",
-   "C": "Litseae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "赤石脂",
-   "B": "赤石脂",
-   "C": "Halloysitum Rubrum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "走馬胎",
-   "B": "走马胎",
-   "C": "Ardisiae Gigantifoliae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "辛夷",
-   "B": "辛夷",
-   "C": "Magnoliae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "防己",
-   "B": "防己",
-   "C": "Stephaniae Tetrandrae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "防風",
-   "B": "防风",
-   "C": "Saposhnikoviae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "乳香",
-   "B": "乳香",
-   "C": "Olibanum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "亞乎奴（錫生藤）",
-   "B": "亚乎奴（锡生藤）",
-   "C": "Cissampelotis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "使君子",
-   "B": "使君子",
-   "C": "Quisqualis Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "兒茶",
-   "B": "儿茶",
-   "C": "Catechu",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "刺蝟皮",
-   "B": "刺猬皮",
-   "C": "Erinacei Corium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "卷柏",
-   "B": "卷柏",
-   "C": "Selaginellae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "夜明砂",
-   "B": "夜明砂",
-   "C": "Vespertilionis Faeces",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "委陵菜",
-   "B": "委陵菜",
-   "C": "Potentillae Chinensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "岩白菜",
-   "B": "岩白菜",
-   "C": "Bergeniae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "延胡索（元胡）",
-   "B": "延胡索（元胡）",
-   "C": "Corydalis Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "明黨參",
-   "B": "明党参",
-   "C": "Changii Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "松香",
-   "B": "松香",
-   "C": "Phonium Colo",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "板藍根",
-   "B": "板蓝根",
-   "C": "Isatidis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "油松節",
-   "B": "油松节",
-   "C": "Pini Lignum Nodi",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "炒瓜蔞子",
-   "B": "炒瓜蒌子",
-   "C": "Trichosanthis Semen Tostum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "狗脊",
-   "B": "狗脊",
-   "C": "Cibotii Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "狗寶",
-   "B": "狗宝",
-   "C": "Canitis Calculus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "直立紫堇",
-   "B": "直立紫堇",
-   "C": "Corydalis Strictae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "羌活",
-   "B": "羌活",
-   "C": "Notopterygii Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "花蕊石",
-   "B": "花蕊石",
-   "C": "Ophicalcitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "虎杖",
-   "B": "虎杖",
-   "C": "Polygoni Cuspidati Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金果欖",
-   "B": "金果榄",
-   "C": "Tinosporae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金沸草",
-   "B": "金沸草",
-   "C": "Inulae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金鈕扣",
-   "B": "金钮扣",
-   "C": "Solani Torvi Ramulus Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金盞銀盤",
-   "B": "金盏银盘",
-   "C": "Bidentis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金精石",
-   "B": "金精石",
-   "C": "Vermiculitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金錢白花蛇",
-   "B": "金钱白花蛇",
-   "C": "Bungarus Parvus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金錢草",
-   "B": "金钱草",
-   "C": "Lysimachiae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金龍膽草",
-   "B": "金龙胆草",
-   "C": "Conyzae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金礞石",
-   "B": "金礞石",
-   "C": "Micae Lapis Aureus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "金櫻根",
-   "B": "金樱根",
-   "C": "Rosae Laevigatae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "青天葵",
-   "B": "青天葵",
-   "C": "Nerviliae Plicatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "青風藤",
-   "B": "青风藤",
-   "C": "Sinomenii Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "青葉膽",
-   "B": "青叶胆",
-   "C": "Swertiae Mileensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "青蒿",
-   "B": "青蒿",
-   "C": "Artemisiae Annuae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "青黛",
-   "B": "青黛",
-   "C": "Indigo Naturalis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "青礞石",
-   "B": "青礞石",
-   "C": "Chloriti Lapis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "前胡",
-   "B": "前胡",
-   "C": "Peucedani Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "南天仙子",
-   "B": "南天仙子",
-   "C": "Hygrophilae Ringens Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "南沙參",
-   "B": "南沙参",
-   "C": "Adenophorae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "南寒水石",
-   "B": "南寒水石",
-   "C": "Calcitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "垂盆草",
-   "B": "垂盆草",
-   "C": "Sedi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "威靈仙",
-   "B": "威灵仙",
-   "C": "Clematidis Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "枸骨葉",
-   "B": "枸骨叶",
-   "C": "Ilicis Cornutae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "柘木",
-   "B": "柘木",
-   "C": "Cudraniae Tricuspidatae Radix Et Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "柿蒂",
-   "B": "柿蒂",
-   "C": "Kaki Calyx",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "柿霜",
-   "B": "柿霜",
-   "C": "Kaki Mannosum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "洪連",
-   "B": "洪连",
-   "C": "Lagotidis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "炮薑",
-   "B": "炮姜",
-   "C": "Zingiberis Rhizoma Praeparatum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "玳瑁",
-   "B": "玳瑁",
-   "C": "Eretmochelydis Carapax",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "珍珠母",
-   "B": "珍珠母",
-   "C": "Margaritifera Concha",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "珍珠杆",
-   "B": "珍珠杆",
-   "C": "Rubi Ideai Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "相思藤",
-   "B": "相思藤",
-   "C": "Abri Precatorii Cacumen Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "禹州漏蘆",
-   "B": "禹州漏芦",
-   "C": "Echinopsis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "禹餘糧",
-   "B": "禹余粮",
-   "C": "Limonitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "穿山甲",
-   "B": "穿山甲",
-   "C": "Manis Squama",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "穿山龍",
-   "B": "穿山龙",
-   "C": "Dioscoreae Nipponicae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "穿心蓮",
-   "B": "穿心莲",
-   "C": "Andrographis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "穿壁風",
-   "B": "穿壁风",
-   "C": "Piperis Wallichii Caulis Et Folium, Piperis Puberuli Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紅豆蔻",
-   "B": "红豆蔻",
-   "C": "Galangae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紅花",
-   "B": "红花",
-   "C": "Carthami Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紅花龍膽",
-   "B": "红花龙胆",
-   "C": "Entianae Rhodanthae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "胡黃連",
-   "B": "胡黄连",
-   "C": "Picrorhizae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苘麻子",
-   "B": "苘麻子",
-   "C": "Abutili Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苦木",
-   "B": "苦木",
-   "C": "Picrasmae Ramulus Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苦冬瓜",
-   "B": "苦冬瓜",
-   "C": "Benincasae Hispidae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苦玄參",
-   "B": "苦玄参",
-   "C": "Picriae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苦地丁",
-   "B": "苦地丁",
-   "C": "Corydalis Bungeanae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苦參",
-   "B": "苦参",
-   "C": "Sophorae Flavescentis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苦菜",
-   "B": "苦菜",
-   "C": "Ixeritis Chinensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "苧麻根",
-   "B": "苧麻根",
-   "C": "Boehmeriae Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "茄根",
-   "B": "茄根",
-   "C": "Solani Melongenae Radix Et Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "茅莓根",
-   "B": "茅莓根",
-   "C": "Rubi Parvifolii Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "茺蔚子",
-   "B": "茺蔚子",
-   "C": "Leonuri Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "降香",
-   "B": "降香",
-   "C": "Dalbergiae Odoriferae Lignum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "飛天蠄蟧",
-   "B": "飞天蠄蟧",
-   "C": "Alsophiae Spinulosae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "飛揚草",
-   "B": "飞扬草",
-   "C": "Euphorbiae Hirtae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "首烏藤",
-   "B": "首乌藤",
-   "C": "Polygoni Multiflori Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "香果脂",
-   "B": "香果脂",
-   "C": "Linderae Oleum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "香排草",
-   "B": "香排草",
-   "C": "Anisochili Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "香榧草",
-   "B": "香榧草",
-   "C": "Eragrostis Tenellae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "香樟",
-   "B": "香樟",
-   "C": "Cinnamomi Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "倒扣草",
-   "B": "倒扣草",
-   "C": "Achyranthis Asperae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "凌霄花",
-   "B": "凌霄花",
-   "C": "Campsis Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "夏天無",
-   "B": "夏天无",
-   "C": "Corydalis Decumbentis Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "娑羅子",
-   "B": "娑罗子",
-   "C": "Aesculi Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "射干",
-   "B": "射干",
-   "C": "Belamcandae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "徐長卿",
-   "B": "徐长卿",
-   "C": "Cynanchi Paniculati Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "拳參",
-   "B": "拳参",
-   "C": "Bistortae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "柴胡",
-   "B": "柴胡",
-   "C": "Bupleuri Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "桂枝",
-   "B": "桂枝",
-   "C": "Cinnamomi Ramulus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "桃枝",
-   "B": "桃枝",
-   "C": "Persicae Ramulus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "桑螵蛸",
-   "B": "桑螵蛸",
-   "C": "Mantidis Oötheca",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "浮石",
-   "B": "浮石",
-   "C": "Pumex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "浮海石",
-   "B": "浮海石",
-   "C": "Costaziae Os",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "浮萍",
-   "B": "浮萍",
-   "C": "Spirodelae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "海金沙",
-   "B": "海金沙",
-   "C": "Lygodii Spora",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "海金沙草",
-   "B": "海金沙草",
-   "C": "Lygodii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "海風藤",
-   "B": "海风藤",
-   "C": "Piperis Kadsurae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "海桐皮",
-   "B": "海桐皮",
-   "C": "Erythrinae Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "海螵蛸",
-   "B": "海螵蛸",
-   "C": "Sepiae Endoconcha",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "烏毛蕨貫眾",
-   "B": "乌毛蕨贯众",
-   "C": "Blechni Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "烏藥",
-   "B": "乌药",
-   "C": "Linderae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "珠子參",
-   "B": "珠子参",
-   "C": "Panacis Majoris Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "神曲",
-   "B": "神曲",
-   "C": "Massa Medicata Fermentata",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "秦皮",
-   "B": "秦皮",
-   "C": "Fraxini Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "秦艽",
-   "B": "秦艽",
-   "C": "Gentianae Macrophyllae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "粉萆薢",
-   "B": "粉萆薢",
-   "C": "Dioscoreae Hypoglaucae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "素馨花",
-   "B": "素馨花",
-   "C": "Jasmini Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "臭茉莉",
-   "B": "臭茉莉",
-   "C": "Clerodendri Ramulus Seu Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "臭靈丹草",
-   "B": "臭灵丹草",
-   "C": "Laggerae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "草烏芽",
-   "B": "草乌芽",
-   "C": "Aconiti Kusnezoffii Plantula",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "荊芥",
-   "B": "荆芥",
-   "C": "Schizonepetae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "荊芥炭",
-   "B": "荆芥炭",
-   "C": "Schizonepetae Herba Carbonisata",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "荊芥穗",
-   "B": "荆芥穗",
-   "C": "Schizonepetae Spica",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "荊芥穗炭",
-   "B": "荆芥穗炭",
-   "C": "Schizonepetae Spica Carbonisata",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "荔枝核",
-   "B": "荔枝核",
-   "C": "Litchi Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "馬勃",
-   "B": "马勃",
-   "C": "Lasiosphaera Calvatia",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "馬檳榔",
-   "B": "马槟榔",
-   "C": "Capparis Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "馬鞭草",
-   "B": "马鞭草",
-   "C": "Verbenae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "馬寶",
-   "B": "马宝",
-   "C": "Equi Calculus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "高山辣根菜",
-   "B": "高山辣根菜",
-   "C": "Pegaeophyti Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鬼羽箭",
-   "B": "鬼羽箭",
-   "C": "Buchnerae Cruciatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鬼箭羽",
-   "B": "鬼箭羽",
-   "C": "Euonymi Ramulus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "假蒟",
-   "B": "假蒟",
-   "C": "Piperis Sarmentosi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "參葉",
-   "B": "参叶",
-   "C": "Panacis Japonicus Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "密蒙花",
-   "B": "密蒙花",
-   "C": "Buddlejae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "崗稔",
-   "B": "岗稔",
-   "C": "Rhodomyrti Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "接骨木",
-   "B": "接骨木",
-   "C": "Sambuci Williamsii Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "敗醬草",
-   "B": "败酱草",
-   "C": "Patriniae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "旋覆花",
-   "B": "旋覆花",
-   "C": "Inulae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "梅花",
-   "B": "梅花",
-   "C": "Mume Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "梧桐子",
-   "B": "梧桐子",
-   "C": "Firmianae Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "甜地丁",
-   "B": "甜地丁",
-   "C": "Gueldenstaedtiae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "羚羊角",
-   "B": "羚羊角",
-   "C": "Saigae Tataricae Cornu",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "莪大夏",
-   "B": "莪大夏",
-   "C": "Oxytropis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蛇床子",
-   "B": "蛇床子",
-   "C": "Cnidii Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蛇莓",
-   "B": "蛇莓",
-   "C": "Duchesneae Indicae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蛇蛻",
-   "B": "蛇蜕",
-   "C": "Serpentis Periostracum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "貫葉金絲桃",
-   "B": "贯叶金丝桃",
-   "C": "Hyperici Perforati Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "透骨草",
-   "B": "透骨草",
-   "C": "Speranskiae Tuberculatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "通草",
-   "B": "通草",
-   "C": "Tetrapanacis Medulla",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "通關藤",
-   "B": "通关藤",
-   "C": "Marsdeniae Tenacissimae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "連錢草",
-   "B": "连钱草",
-   "C": "Glechomae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "連翹",
-   "B": "连翘",
-   "C": "Forsythiae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "野木瓜",
-   "B": "野木瓜",
-   "C": "Stauntoniae Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "野牡丹",
-   "B": "野牡丹",
-   "C": "Melastomae Candidi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "野馬追",
-   "B": "野马追",
-   "C": "Eupatorii Lindleyani Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "野薑",
-   "B": "野姜",
-   "C": "Hedychii Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "陰起石",
-   "B": "阴起石",
-   "C": "Actinolitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "陸英",
-   "B": "陆英",
-   "C": "Sambuci Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "魚腦石",
-   "B": "鱼脑石",
-   "C": "Pseudoscinaenae Otolhum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鹿角霜",
-   "B": "鹿角霜",
-   "C": "Cervi Cornu Degelatinatum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鹿銜草",
-   "B": "鹿衔草",
-   "C": "Pyrolae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "麻花秦艽花",
-   "B": "麻花秦艽花",
-   "C": "Gentianae Straminiae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "麻黃",
-   "B": "麻黄",
-   "C": "Ephedrae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "麻黃根",
-   "B": "麻黄根",
-   "C": "Ephedrae Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "棕櫚",
-   "B": "棕榈",
-   "C": "Trachycarpi Petiolus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "棕櫚子",
-   "B": "棕榈子",
-   "C": "Trachycarpi Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "楮實子",
-   "B": "楮实子",
-   "C": "Broussonetiae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "款冬花",
-   "B": "款冬花",
-   "C": "Farfarae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "無名異",
-   "B": "无名异",
-   "C": "Pyrolusitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "無患子",
-   "B": "无患子",
-   "C": "Sapindi Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "無患子果",
-   "B": "无患子果",
-   "C": "Sapindi Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "焦梔子",
-   "B": "焦栀子",
-   "C": "Gardeniae Fructus Praeparatus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "焦檳榔",
-   "B": "焦槟榔",
-   "C": "Arecae Semen Tostum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "琥珀",
-   "B": "琥珀",
-   "C": "Succinum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "番瀉葉",
-   "B": "番泻叶",
-   "C": "Sennae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "筋骨草",
-   "B": "筋骨草",
-   "C": "Ajugae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫石英",
-   "B": "紫石英",
-   "C": "Fluoritum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫河車",
-   "B": "紫河车",
-   "C": "Hominis Placenta",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫花地丁",
-   "B": "紫花地丁",
-   "C": "Violae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫花前胡",
-   "B": "紫花前胡",
-   "C": "Peucedani Decursivi Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫珠葉",
-   "B": "紫珠叶",
-   "C": "Callicarpae Formosanae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫草",
-   "B": "紫草",
-   "C": "Arnebiae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫荊皮",
-   "B": "紫荆皮",
-   "C": "Cercis Chinensis Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫菀",
-   "B": "紫菀",
-   "C": "Asteris Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫萁貫眾",
-   "B": "紫萁贯众",
-   "C": "Osmundae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "紫檀香",
-   "B": "紫檀香",
-   "C": "Pterocarpi Santalini Lignum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "絡石藤",
-   "B": "络石藤",
-   "C": "Trachelospermi Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "菊三七",
-   "B": "菊三七",
-   "C": "Gynurae Japonicae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "菝葜",
-   "B": "菝葜",
-   "C": "Smilacis Chinae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "菥蓂",
-   "B": "菥蓂",
-   "C": "Thlaspi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蛤殼",
-   "B": "蛤壳",
-   "C": "Meretricis Concha, Cyclinae Concha",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "買麻藤",
-   "B": "买麻藤",
-   "C": "Gneti Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鈎藤",
-   "B": "钩藤",
-   "C": "Uncariae Ramulus Cum Uncis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "陽起石",
-   "B": "阳起石",
-   "C": "Tremolitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "雲母石",
-   "B": "云母石",
-   "C": "Muscovitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃山藥",
-   "B": "黄山药",
-   "C": "Dioscoreae Panthaicae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃芩",
-   "B": "黄芩",
-   "C": "Scutellariae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃柏",
-   "B": "黄柏",
-   "C": "Phellodendri Chinensis Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃荊子",
-   "B": "黄荆子",
-   "C": "Viticis Negundo Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃連",
-   "B": "黄连",
-   "C": "Coptidis Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃蜀葵花",
-   "B": "黄蜀葵花",
-   "C": "Abelmoschi Corolla",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃藤",
-   "B": "黄藤",
-   "C": "Fibraureae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黃藥子",
-   "B": "黄药子",
-   "C": "Dioscoreae Bulbiferae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "黑老虎",
-   "B": "黑老虎",
-   "C": "Kadsurae Coccineae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "椿皮",
-   "B": "椿皮",
-   "C": "Ailanthi Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "楓香脂",
-   "B": "枫香脂",
-   "C": "Liquidambaris Resina",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "溪黃草",
-   "B": "溪黄草",
-   "C": "Rabdosiae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "滇雞血藤",
-   "B": "滇鸡血藤",
-   "C": "Kadsurae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "滑石",
-   "B": "滑石",
-   "C": "Talcum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "滑石粉",
-   "B": "滑石粉",
-   "C": "Talci Pulvis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "煅石膏",
-   "B": "煅石膏",
-   "C": "Gypsum Ustum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "當藥",
-   "B": "当药",
-   "C": "Swertiae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "矮地茶",
-   "B": "矮地茶",
-   "C": "Ardisiae Japonicae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "硼砂",
-   "B": "硼砂",
-   "C": "Borax",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "碎骨木",
-   "B": "碎骨木",
-   "C": "Schoepfia Chinensis Herba, Schoepfia Jasminodora Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "粵絲瓜絡",
-   "B": "粤丝瓜络",
-   "C": "Luffae Acutangula Fructus Retinervus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "腫節風",
-   "B": "肿节风",
-   "C": "Sarcandrae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "萹蓄",
-   "B": "萹蓄",
-   "C": "Polygoni Avicularis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "葉下珠",
-   "B": "叶下珠",
-   "C": "Phyllanthi Urinariae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "葎草",
-   "B": "葎草",
-   "C": "Humuli Scandentis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "葶藶子",
-   "B": "葶苈子",
-   "C": "Descurainiae Semenlepidii Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蜂房",
-   "B": "蜂房",
-   "C": "Vespae Nidus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "路路通",
-   "B": "路路通",
-   "C": "Liquidambaris Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "過崗龍",
-   "B": "过岗龙",
-   "C": "Entadae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "零陵香",
-   "B": "零陵香",
-   "C": "Lysimachiae Foeni-Graeci Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "雷丸",
-   "B": "雷丸",
-   "C": "Omphalia",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "預知子",
-   "B": "预知子",
-   "C": "Akebiae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鼠婦蟲",
-   "B": "鼠妇虫",
-   "C": "Armadillidium Vulgare",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "榕樹鬚",
-   "B": "榕树须",
-   "C": "Fici Microcarpae Aerla Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "榼藤子",
-   "B": "榼藤子",
-   "C": "Entadae Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "槐角",
-   "B": "槐角",
-   "C": "Sophorae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "滿山紅",
-   "B": "满山红",
-   "C": "Rhododendri Daurici Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "漏蘆",
-   "B": "漏芦",
-   "C": "Rhapontici Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "漢桃葉",
-   "B": "汉桃叶",
-   "C": "Schefflerae Kwangiensis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "磁石",
-   "B": "磁石",
-   "C": "Magnetitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "綿萆薢",
-   "B": "绵萆薢",
-   "C": "Dioscoreae Spongiosae Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蒲黃",
-   "B": "蒲黄",
-   "C": "Typhae Pollen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蒼耳草",
-   "B": "苍耳草",
-   "C": "Xanthii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蓍草",
-   "B": "蓍草",
-   "C": "Achilleae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蜘蛛香",
-   "B": "蜘蛛香",
-   "C": "Valerianae Jatamansi Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "裸花紫珠",
-   "B": "裸花紫珠",
-   "C": "Callicarpae Nudiflorae Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "豨薟草",
-   "B": "豨莶草",
-   "C": "Siegesbeckiae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "銀柴胡",
-   "B": "银柴胡",
-   "C": "Stellariae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "銅綠",
-   "B": "铜绿",
-   "C": "Malachitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鳳仙透骨草",
-   "B": "凤仙透骨草",
-   "C": "Impatientis Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鳳尾草",
-   "B": "凤尾草",
-   "C": "Pteridis Multifidae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "僵蠶",
-   "B": "僵蚕",
-   "C": "Bombyx Batryticatus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "劉寄奴",
-   "B": "刘寄奴",
-   "C": "Artemisiae Anomalae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "寬筋藤",
-   "B": "宽筋藤",
-   "C": "Tinosporae Sinensis Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣升麻",
-   "B": "广升麻",
-   "C": "Serratulae Chinensis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣東土牛膝",
-   "B": "广东土牛膝",
-   "C": "Eupatorii Chinensis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣東合歡花",
-   "B": "广东合欢花",
-   "C": "Magnoliae Cocis Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣東海風藤",
-   "B": "广东海风藤",
-   "C": "Kadsurae Heteroclitae Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣東紫珠",
-   "B": "广东紫珠",
-   "C": "Callicarpae Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣東紫荊皮",
-   "B": "广东紫荆皮",
-   "C": "Phyllanthi Emblicae Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣東絡石藤",
-   "B": "广东络石藤",
-   "C": "Psychotriae Caulis Et Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣海桐皮",
-   "B": "广海桐皮",
-   "C": "Bombacis Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "廣棗",
-   "B": "广枣",
-   "C": "Choerospondiatis Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "暴馬子皮",
-   "B": "暴马子皮",
-   "C": "Syringae Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "槲寄生",
-   "B": "槲寄生",
-   "C": "Visci Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "樟腦（天然）",
-   "B": "樟脑（天然）",
-   "C": "D-Camphora",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "穀精草",
-   "B": "谷精草",
-   "C": "Eriocauli Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蓼大青葉",
-   "B": "蓼大青叶",
-   "C": "Polygoni Tinctorii Folium",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蓽澄茄",
-   "B": "荜澄茄",
-   "C": "Litseae Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蔓荊子",
-   "B": "蔓荆子",
-   "C": "Viticis Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蔓荊子根",
-   "B": "蔓荆子根",
-   "C": "Viticis Trifoliae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "豬苓",
-   "B": "猪苓",
-   "C": "Polyporus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "豬膽粉",
-   "B": "猪胆粉",
-   "C": "Suis Fellis Pulvis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "豬籠草",
-   "B": "猪笼草",
-   "C": "Nepenthis Mirabilis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "赭石",
-   "B": "赭石",
-   "C": "Haematitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "橘核",
-   "B": "橘核",
-   "C": "Citri Reticulatae Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "橘絡",
-   "B": "橘络",
-   "C": "Citri Reticulatae Fructus Retinervus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "橫經席",
-   "B": "横经席",
-   "C": "Calophylli Membranacei Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "燈心草",
-   "B": "灯心草",
-   "C": "Junci Medulla",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "燈盞細辛（燈盞花）",
-   "B": "灯盏细辛（灯盏花）",
-   "C": "Erigerontis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "獨一味",
-   "B": "独一味",
-   "C": "Lamiophlomis Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "獨活",
-   "B": "独活",
-   "C": "Angelicae Pubescentis Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "獨腳金",
-   "B": "独脚金",
-   "C": "Strigae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蕓薹子",
-   "B": "芸薹子",
-   "C": "Brassicae Campestris Semen",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蕤仁",
-   "B": "蕤仁",
-   "C": "Prinsepiae Nux",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蕪荑",
-   "B": "芜荑",
-   "C": "Ulmi Pasta",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "貓爪草",
-   "B": "猫爪草",
-   "C": "Ranunculi Ternati Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "錦燈籠",
-   "B": "锦灯笼",
-   "C": "Physalis Calyx Seu Fructus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鴨跖草",
-   "B": "鸭跖草",
-   "C": "Commelinae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鴨腳艾",
-   "B": "鸭脚艾",
-   "C": "Artemisiae Lactiflorae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "龍骨",
-   "B": "龙骨",
-   "C": "Os Draconis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "龍葵",
-   "B": "龙葵",
-   "C": "Solani Nigri Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "龍齒",
-   "B": "龙齿",
-   "C": "Dens Draconis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "龍膽",
-   "B": "龙胆",
-   "C": "Gentianae Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "檀香",
-   "B": "檀香",
-   "C": "Santali Albi Lignum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "翼首草",
-   "B": "翼首草",
-   "C": "Pterocephali Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "聲色草",
-   "B": "声色草",
-   "C": "Polycarpaeae Corymbosae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "膽南星",
-   "B": "胆南星",
-   "C": "Arisaema Cum Bile",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "螻蛄",
-   "B": "蝼蛄",
-   "C": "Gryllotalpa",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "韓信草",
-   "B": "韩信草",
-   "C": "Scutellariae Indicae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "斷血流",
-   "B": "断血流",
-   "C": "Clinopodii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "瞿麥",
-   "B": "瞿麦",
-   "C": "Dianthi Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "翻白草",
-   "B": "翻白草",
-   "C": "Potentillae Discoloris Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "藁本",
-   "B": "藁本",
-   "C": "Ligustici Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "藍布正",
-   "B": "蓝布正",
-   "C": "Gei Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "藏菖蒲",
-   "B": "藏菖蒲",
-   "C": "Acori Calami Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蟬蛻",
-   "B": "蝉蜕",
-   "C": "Cicadae Periostracum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鎖陽",
-   "B": "锁阳",
-   "C": "Cynomorii Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "雞血藤",
-   "B": "鸡血藤",
-   "C": "Spatholobi Caulis",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "雞冠花",
-   "B": "鸡冠花",
-   "C": "Celosiae Cristatae Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "雞骨香",
-   "B": "鸡骨香",
-   "C": "Crotonis Crassifolii Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鵝不食草",
-   "B": "鹅不食草",
-   "C": "Centipedae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "藤苦參",
-   "B": "藤苦参",
-   "C": "Streptocauli Griffithii Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "關黃柏",
-   "B": "关黄柏",
-   "C": "Phellodendri Amurensis Cortex",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "懸鈎子莖",
-   "B": "悬钩子茎",
-   "C": "Rubi Lignum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "爐甘石",
-   "B": "炉甘石",
-   "C": "Calamina",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "糯稻根",
-   "B": "糯稻根",
-   "C": "Oryzae Glutinosae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蘇木",
-   "B": "苏木",
-   "C": "Sappan Lignum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蘇合香",
-   "B": "苏合香",
-   "C": "Styrax",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蘇鐵蕨貫眾",
-   "B": "苏铁蕨贯众",
-   "C": "Braineae Insignis Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蠐螬",
-   "B": "蛴螬",
-   "C": "Holotrichia Diomphalia",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鐘乳石",
-   "B": "钟乳石",
-   "C": "Stalactitum",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "纈草",
-   "B": "缬草",
-   "C": "Valerianae Rhizoma Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "續斷",
-   "B": "续断",
-   "C": "Dipsaci Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蠟梅花",
-   "B": "蜡梅花",
-   "C": "Chimonanthi Flos",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鐵包金",
-   "B": "铁包金",
-   "C": "Berchemiae Ramulus Et Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鐵屑",
-   "B": "铁屑",
-   "C": "Pulvis Ferri",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鐵掃帚",
-   "B": "铁扫帚",
-   "C": "Lespedezae Cuneatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鐵莧菜",
-   "B": "铁苋菜",
-   "C": "Acalyphae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鐵線透骨草",
-   "B": "铁线透骨草",
-   "C": "Clematidis Intricatae Herba",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "露兜簕",
-   "B": "露兜簕",
-   "C": "Pandani Tectorii Radix Et Rhizoma",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "體外培育牛黃",
-   "B": "体外培育牛黄",
-   "C": "Bovis Calculus Sativus",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "蠶砂",
-   "B": "蚕砂",
-   "C": "Bombycis Faeces",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鷹不泊",
-   "B": "鹰不泊",
-   "C": "Zanthoxyli Avicennae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鷹不撲",
-   "B": "鹰不扑",
-   "C": "Araliae Armatae Radix",
-   "D": "非处方普通中药材"
- },
- {
-   "A": "鬱金",
-   "B": "郁金",
-   "C": "Curcumae Radix",
-   "D": "非处方普通中药材"
- }
+  ["学名 ","中文名","拉丁名","分类"  ],
+  ["千金子","千金子","Euphorbiae Semen","毒性药材"  ],
+  ["天仙子","天仙子","Hyoscyami Semen","毒性药材"  ],
+  ["巴豆","巴豆","Crotonis Fructus","毒性药材"  ],
+  ["水銀","水银","Hydrargyrum","毒性药材"  ],
+  ["甘遂","甘遂","Kansui Radix","毒性药材"  ],
+  ["生川烏","生川乌","Aconiti Radix","毒性药材"  ],
+  ["生天南星","生天南星","Arisaematis Rhizoma","毒性药材"  ],
+  ["生半夏","生半夏","Pinelliae Rhizoma","毒性药材"  ],
+  ["生白附子","生白附子","Typhonii Rhizoma","毒性药材"  ],
+  ["生附子","生附子","Aconiti Lateralis Radix","毒性药材"  ],
+  ["生草烏","生草乌","Aconiti Kusnezoffii Radix","毒性药材"  ],
+  ["白降丹","白降丹","Hydrargyrum Chloratum Compositum","毒性药材"  ],
+  ["朱砂／靈砂","朱砂／灵砂","Cinnabaris / Cinnabaris Artificialis","毒性药材"  ],
+  ["京大戟","京大戟","Euphorbiae Pekinensis Radix","毒性药材"  ],
+  ["芫花","芫花","Genkwa Flos","毒性药材"  ],
+  ["青娘子","青娘子","Lytta Caraganae","毒性药材"  ],
+  ["洋金花","洋金花","Daturae Flos","毒性药材"  ],
+  ["砒石","砒石","Arsenolitum","毒性药材"  ],
+  ["砒霜","砒霜","Arsenolitum Sublimatum","毒性药材"  ],
+  ["紅娘子","红娘子","Huechys Sanguinea, Huechys Philaemata","毒性药材"  ],
+  ["紅粉／紅升丹","红粉／红升丹","Hydrargyri Oxydum Rubrum","毒性药材"  ],
+  ["狼毒","狼毒","Euphorbiae Ebracteolatae Radix","毒性药材"  ],
+  ["馬錢子","马钱子","Strychni Semen","毒性药材"  ],
+  ["雪上一枝蒿","雪上一枝蒿","Aconiti Brachypodi Radix","毒性药材"  ],
+  ["斑蝥","斑蝥","Mylabris","毒性药材"  ],
+  ["雄黃","雄黄","Realgar","毒性药材"  ],
+  ["輕粉","轻粉","Calomelas","毒性药材"  ],
+  ["雌黃","雌黄","Orpimentum","毒性药材"  ],
+  ["鬧羊花","闹羊花","Rhododendri Mollis Flos","毒性药材"  ],
+  ["藤黃","藤黄","Garciniae Resina","毒性药材"  ],
+  ["蟾酥","蟾酥","Bufonis Venenum","毒性药材"  ],
+  ["一枝黃花","一枝黄花","Solidaginis Herba","处方普通中药材"  ],
+  ["丁公藤","丁公藤","Erycibes Caulis","处方普通中药材"  ],
+  ["九龍川","九龙川","Crotonis Tiglii Caulis Et Radix","处方普通中药材"  ],
+  ["了哥王","了哥王","Wikstroemiae Indicae Radix","处方普通中药材"  ],
+  ["八角楓","八角枫","Alangii Radix","处方普通中药材"  ],
+  ["八角蓮","八角莲","Dysosmatis Rhizoma","处方普通中药材"  ],
+  ["三棱","三棱","Sparganii Rhizoma","处方普通中药材"  ],
+  ["千金子霜","千金子霜","Euphorbiae Semen Pulveratum","处方普通中药材"  ],
+  ["土荊皮","土荆皮","Pseudolaricis Cortex","处方普通中药材"  ],
+  ["土鱉蟲（䗪蟲）","土鳖虫（䗪虫）","Eupolyphaga Steleophaga","处方普通中药材"  ],
+  ["大皂角","大皂角","Gleditsiae Sinensis Fructus","处方普通中药材"  ],
+  ["大風子","大风子","Hydnocarpi Semen","处方普通中药材"  ],
+  ["山豆根","山豆根","Sophorae Tonkinensis Radix Et Rhizoma","处方普通中药材"  ],
+  ["山慈菇","山慈菇","Cremastrae Pseudobulbus, Pleiones Pseudobulbus","处方普通中药材"  ],
+  ["天山雪蓮","天山雪莲","Saussureae Involucratae Herba","处方普通中药材"  ],
+  ["天仙藤","天仙藤","Aristolochiae Herba","处方普通中药材"  ],
+  ["巴豆霜","巴豆霜","Crotonis Semen Pulveratum","处方普通中药材"  ],
+  ["木鱉子","木鳖子","Momordicae Semen","处方普通中药材"  ],
+  ["水半夏","水半夏","Typhonii Flagelliformis Rhizoma","处方普通中药材"  ],
+  ["水蛭","水蛭","Hirudo","处方普通中药材"  ],
+  ["牛耳楓","牛耳枫","Daphniphylli Caulis Et Folium","处方普通中药材"  ],
+  ["生關白附","生关白附","Aconiti Coreani Radix","处方普通中药材"  ],
+  ["石蒲藤","石蒲藤","Pothi Chinensis Herba","处方普通中药材"  ],
+  ["光慈菇","光慈菇","Tulipae Bulbus","处方普通中药材"  ],
+  ["全蠍","全蝎","Scorpio","处方普通中药材"  ],
+  ["朱砂蓮","朱砂莲","Aristolochiae Tuberosae Radix","处方普通中药材"  ],
+  ["羊角拗","羊角拗","Strophanthi Divaricati Radix Et Caulis","处方普通中药材"  ],
+  ["何首烏","何首乌","Polygoni Multiflori Radix","处方普通中药材"  ],
+  ["夾竹桃","夹竹桃","Nerii Folium","处方普通中药材"  ],
+  ["兩面針","两面针","Zanthoxyli Radix","处方普通中药材"  ],
+  ["兩頭尖","两头尖","Anemones Raddeanae Rhizoma","处方普通中药材"  ],
+  ["昆明山海棠","昆明山海棠","Tripterygii Hypoglauci Radix","处方普通中药材"  ],
+  ["法半夏","法半夏","Pinelliae Rhizoma Praeparatum","处方普通中药材"  ],
+  ["金邊土鱉","金边土鳖","Opisthoplatia","处方普通中药材"  ],
+  ["金鐵鎖","金铁锁","Psammosilenes Radix","处方普通中药材"  ],
+  ["阿魏","阿魏","Ferulae Resina","处方普通中药材"  ],
+  ["青葙子","青葙子","Celosiae Semen","处方普通中药材"  ],
+  ["南鶴虱","南鹤虱","Carotae Fructus","处方普通中药材"  ],
+  ["急性子","急性子","Impatientis Semen","处方普通中药材"  ],
+  ["春根藤","春根藤","Alyxiae Caulis","处方普通中药材"  ],
+  ["相思子","相思子","Abri Semen","处方普通中药材"  ],
+  ["紅大戟","红大戟","Knoxiae Radix","处方普通中药材"  ],
+  ["苦豆草","苦豆草","Sophorae Alopecuroidis Herba","处方普通中药材"  ],
+  ["苦楝子","苦楝子","Azedarach Fructus","处方普通中药材"  ],
+  ["苦楝皮","苦楝皮","Meliae Cortex","处方普通中药材"  ],
+  ["虻蟲","虻虫","Arylotus, Tabanus","处方普通中药材"  ],
+  ["重樓","重楼","Paridis Rhizoma","处方普通中药材"  ],
+  ["香加皮","香加皮","Periplocae Cortex","处方普通中药材"  ],
+  ["桃兒七","桃儿七","Sinopodophylli Radix Et Rhizoma","处方普通中药材"  ],
+  ["草烏葉","草乌叶","Aconiti Kusnezoffii Folium","处方普通中药材"  ],
+  ["馬兜鈴","马兜铃","Aristolochiae Fructus","处方普通中药材"  ],
+  ["馬錢子粉","马钱子粉","Strychni Semen Pulveratum","处方普通中药材"  ],
+  ["乾漆","乾漆","Toxicodendri Resina","处方普通中药材"  ],
+  ["商陸","商陆","Phytolaccae Radix","处方普通中药材"  ],
+  ["密陀僧","密陀僧","Lithargyrum","处方普通中药材"  ],
+  ["常山","常山","Dichroae Radix","处方普通中药材"  ],
+  ["清半夏","清半夏","Pinelliae Rhizoma Praeparatum Cum Alumine","处方普通中药材"  ],
+  ["牽牛子","牵牛子","Pharbitidis Semen","处方普通中药材"  ],
+  ["硫黃","硫黄","Sulfur","处方普通中药材"  ],
+  ["細辛","细辛","Asari Radix Et Rhizoma","处方普通中药材"  ],
+  ["莪朮","莪术","Curcumae Rhizoma","处方普通中药材"  ],
+  ["野顛茄","野颠茄","Solani Capsicoidis Ramulus Et Radix","处方普通中药材"  ],
+  ["尋骨風","寻骨风","Aristolochiae Mollissimae Herba","处方普通中药材"  ],
+  ["硝石","硝石","Nitrum","处方普通中药材"  ],
+  ["華山參","华山参","Physochlainae Radix","处方普通中药材"  ],
+  ["鈎吻","钩吻","Gelsemii Radix","处方普通中药材"  ],
+  ["黑草烏","黑草乌","Aconiti Balfourii Radix, Aconiti Szechenyiani Radix","处方普通中药材"  ],
+  ["黑草烏葉","黑草乌叶","Aconiti Szechenyiani Folium","处方普通中药材"  ],
+  ["黑種草子","黑种草子","Nigellae Semen","处方普通中药材"  ],
+  ["萱草根","萱草根","Hemerocallis Radix","处方普通中药材"  ],
+  ["蜈蚣","蜈蚣","Scolopendra","处方普通中药材"  ],
+  ["雷公藤","雷公藤","Tripterygii Wilfordii Radix Et Rhizoma","处方普通中药材"  ],
+  ["榜嘎","榜嘎","Aconiti Navicularis Herba, Aconiti Tangutici Herba","处方普通中药材"  ],
+  ["漆樹根","漆树根","Toxicodendri Sylvestris Radix","处方普通中药材"  ],
+  ["綿馬貫眾","绵马贯众","Dryopteridis Crassirhizomatis Rhizoma","处方普通中药材"  ],
+  ["綿馬貫眾炭","绵马贯众炭","Dryopteridis Crassirhizomatis Rhizoma Carbonisatum","处方普通中药材"  ],
+  ["蒼耳子","苍耳子","Xanthii Fructus","处方普通中药材"  ],
+  ["蓖麻子","蓖麻子","Ricini Semen","处方普通中药材"  ],
+  ["蜣螂","蜣螂","Catharsius","处方普通中药材"  ],
+  ["製川烏","制川乌","Aconiti Radix Cocta","处方普通中药材"  ],
+  ["製天南星","制天南星","Arisaematis Rhizoma Preparatum","处方普通中药材"  ],
+  ["製半夏","制半夏","Pinelliae Rhizoma Praeparata","处方普通中药材"  ],
+  ["製甘遂","制甘遂","Kansui Radix Preparata","处方普通中药材"  ],
+  ["製白附子","制白附子","Typhonii Rhizoma Praeparata","处方普通中药材"  ],
+  ["製何首烏","制何首乌","Polygoni Multiflori Radix Praeparata","处方普通中药材"  ],
+  ["製京大戟","制京大戟","Euphorbiae Pekinensis Radix Preparata","处方普通中药材"  ],
+  ["製附子","制附子","Aconiti Lateralis Radix Praeparata","处方普通中药材"  ],
+  ["製草烏","制草乌","Aconiti Kusnezoffii Radix Cocta","处方普通中药材"  ],
+  ["製馬錢子","制马钱子","Strychni Semen Preparata","处方普通中药材"  ],
+  ["製關白附","制关白附","Aconiti Coreani Radix Praeparata","处方普通中药材"  ],
+  ["膜葉槌果藤","膜叶槌果藤","Capparis Membraceae Radix","处方普通中药材"  ],
+  ["豬牙皂","猪牙皂","Gleditsiae Fructus Abnormalis","处方普通中药材"  ],
+  ["鴉膽子","鸦胆子","Bruceae Fructus","处方普通中药材"  ],
+  ["磠砂","硵砂","Sal Ammoniacum","处方普通中药材"  ],
+  ["膽礬","胆矾","Chalcanthitum","处方普通中药材"  ],
+  ["薑半夏","姜半夏","Pinelliae Rhizoma Praeparatum Cum Zingibere Et Alumine","处方普通中药材"  ],
+  ["藜蘆","藜芦","Veratri Nigri Radix Et Rhizoma","处方普通中药材"  ],
+  ["顛茄草","颠茄草","Belladonnae Herba","处方普通中药材"  ],
+  ["罌粟殼","罂粟壳","Papaveris Pericarpium","处方普通中药材"  ],
+  ["鶴虱","鹤虱","Carpesii Fructus","处方普通中药材"  ],
+  ["麝香","麝香","Moschus","处方普通中药材"  ],
+  ["一枝蒿","一枝蒿","Artemisiae Rupestris Herba","非处方普通中药材 "  ],
+  ["一點紅","一点红","Emiliae Herba","非处方普通中药材"  ],
+  ["九里香","九里香","Murrayae Folium Et Cacumen","非处方普通中药材"  ],
+  ["九香蟲","九香虫","Aspongopus","非处方普通中药材"  ],
+  ["九節菖蒲","九节菖蒲","Anemones Altaicae Rhizoma","非处方普通中药材"  ],
+  ["人工牛黃","人工牛黄","Bovis Calculus Artifactus","非处方普通中药材"  ],
+  ["三白草","三白草","Saururi Herba","非处方普通中药材"  ],
+  ["三顆針","三颗针","Berberidis Radix","非处方普通中药材"  ],
+  ["千斤拔","千斤拔","Flemingiae Radix","非处方普通中药材"  ],
+  ["千年健","千年健","Homalomenae Rhizoma","非处方普通中药材"  ],
+  ["千里光","千里光","Senecionis Scandentis Herba","非处方普通中药材"  ],
+  ["土木香","土木香","Inulae Radix","非处方普通中药材"  ],
+  ["土貝母","土贝母","Bolbostemmatis Rhizoma","非处方普通中药材"  ],
+  ["土荊芥","土荆芥","Chenopodii Ambrosioidis Herba","非处方普通中药材"  ],
+  ["土槿皮","土槿皮","Cleistocalycis Operculati Cortex","非处方普通中药材"  ],
+  ["大血藤","大血藤","Sargentodoxae Caulis","非处方普通中药材"  ],
+  ["大豆黃卷","大豆黄卷","Sojae Semen Germinatum","非处方普通中药材"  ],
+  ["大青葉","大青叶","Isatidis Folium","非处方普通中药材"  ],
+  ["大青鹽","大青盐","Halitum","非处方普通中药材"  ],
+  ["大黃","大黄","Rhei Radix Et Rhizoma","非处方普通中药材"  ],
+  ["大腹皮","大腹皮","Arecae Pericarpium","非处方普通中药材"  ],
+  ["大葉木蘭","大叶木兰","Magnoliae Rostratae Cortex","非处方普通中药材"  ],
+  ["大葉紫珠","大叶紫珠","Callicarpae Macrophyllae Folium","非处方普通中药材"  ],
+  ["大薊炭","大蓟炭","Cirsii Japonici Herba Carbonisata","非处方普通中药材"  ],
+  ["小百部","小百部","Asparagi Pseudofilicini Radix","非处方普通中药材"  ],
+  ["小通草","小通草","Stachyuri Medulla, Helwingiae Medulla","非处方普通中药材"  ],
+  ["小葉蓮","小叶莲","Sinopodophylli Fructus","非处方普通中药材"  ],
+  ["小駁骨","小驳骨","Gendarussae Herba","非处方普通中药材"  ],
+  ["山大顏","山大颜","Psycholriae Asiaticae Folium Et Cacumen","非处方普通中药材"  ],
+  ["山白芷","山白芷","Inulae Cappae Radix Et Rhizoma","非处方普通中药材"  ],
+  ["山羊角","山羊角","Caprae Hirci Cornu","非处方普通中药材"  ],
+  ["山芝麻","山芝麻","Helicteris Radix","非处方普通中药材"  ],
+  ["山香圓葉","山香圆叶","Turpiniae Folium","非处方普通中药材"  ],
+  ["山海螺","山海螺","Codonopsis Lanceolatae Radix","非处方普通中药材"  ],
+  ["山麥冬","山麦冬","Liriopes Radix","非处方普通中药材"  ],
+  ["山葡萄","山葡萄","Vitis Adstrictae Caulis Et Folium","非处方普通中药材"  ],
+  ["川木香","川木香","Vladimiriae Radix","非处方普通中药材"  ],
+  ["川木通","川木通","Clematidis Armandii Caulis","非处方普通中药材"  ],
+  ["川牛膝","川牛膝","Cyathulae Radix","非处方普通中药材"  ],
+  ["川射干","川射干","Iridis Tectori Rhizoma","非处方普通中药材"  ],
+  ["川楝子","川楝子","Toosendan Fructus","非处方普通中药材"  ],
+  ["五月艾","五月艾","Artemisiae Indicae Herba","非处方普通中药材"  ],
+  ["五爪龍根","五爪龙根","Ipomoeae Cairicae Radix","非处方普通中药材"  ],
+  ["五倍子","五倍子","Galla Chinensis","非处方普通中药材"  ],
+  ["五靈脂","五灵脂","Trogopterori Faeces","非处方普通中药材"  ],
+  ["分心木","分心木","Juglantis Seminis Septum","非处方普通中药材"  ],
+  ["升麻","升麻","Cimicifugae Rhizoma","非处方普通中药材"  ],
+  ["天竺黃","天竺黄","Bambusae Concretio Silicea","非处方普通中药材"  ],
+  ["天花粉","天花粉","Trichosanthis Radix","非处方普通中药材"  ],
+  ["天然冰片（右旋龍腦）","天然冰片（右旋龙脑）","Borneolum","非处方普通中药材"  ],
+  ["天葵子","天葵子","Semiaquilegiae Radix","非处方普通中药材"  ],
+  ["木芙蓉花","木芙蓉花","Hibisci Mutabilis Flos","非处方普通中药材"  ],
+  ["木芙蓉葉","木芙蓉叶","Hibisci Mutabilis Folium","非处方普通中药材"  ],
+  ["木通","木通","Akebiae Caulis","非处方普通中药材"  ],
+  ["木槿皮","木槿皮","Hibisci Cortex","非处方普通中药材"  ],
+  ["木槿花","木槿花","Hibisci Flos","非处方普通中药材"  ],
+  ["木蝴蝶","木蝴蝶","Oroxyli Semen","非处方普通中药材"  ],
+  ["毛冬青","毛冬青","Ilicis Pubescentis Radix Et Caulis","非处方普通中药材"  ],
+  ["毛訶子","毛诃子","Terminaliae Belliricae Fructus","非处方普通中药材"  ],
+  ["毛麝香","毛麝香","Adenosmae Glutinosi Herba","非处方普通中药材"  ],
+  ["水牛角","水牛角","Bubali Cornu","非处方普通中药材"  ],
+  ["水紅花子","水红花子","Polygoni Orientalis Fructus","非处方普通中药材"  ],
+  ["水飛薊","水飞蓟","Silybi Fructus","非处方普通中药材"  ],
+  ["水線草","水线草","Hedyotidis Corymbosae Herba","非处方普通中药材"  ],
+  ["水獺肝","水獭肝","Lutrae Jecur","非处方普通中药材"  ],
+  ["片薑黃","片姜黄","Wenyujin Rhizoma Concisum","非处方普通中药材"  ],
+  ["牛白藤","牛白藤","Hedyotidis Hedyotideae Caulis","非处方普通中药材"  ],
+  ["牛至","牛至","Origani Herba","非处方普通中药材"  ],
+  ["牛筋草","牛筋草","Eleusines Herba","非处方普通中药材"  ],
+  ["牛黃","牛黄","Bovis Calculus","非处方普通中药材"  ],
+  ["牛蒡草","牛蒡草","Arctii Lappae Herba","非处方普通中药材"  ],
+  ["王不留行","王不留行","Vaccariae Semen","非处方普通中药材"  ],
+  ["仙茅","仙茅","Curculiginis Rhizoma","非处方普通中药材"  ],
+  ["仙鶴草","仙鹤草","Agrimoniae Herba","非处方普通中药材"  ],
+  ["冬凌草","冬凌草","Rabdosiae Rubescentis Herba","非处方普通中药材"  ],
+  ["冬葵果","冬葵果","Malvae Fructus","非处方普通中药材"  ],
+  ["功勞木","功劳木","Mahoniae Caulis","非处方普通中药材"  ],
+  ["北豆根","北豆根","Menispermi Rhizoma","非处方普通中药材"  ],
+  ["北寒水石","北寒水石","Gypsum Rubrum","非处方普通中药材"  ],
+  ["北劉寄奴","北刘寄奴","Siphonostegiae Herba","非处方普通中药材"  ],
+  ["半枝蓮","半枝莲","Scutellariae Barbatae Herba","非处方普通中药材"  ],
+  ["半楓荷","半枫荷","Pterospermi Radix","非处方普通中药材"  ],
+  ["半邊旗","半边旗","Pteridis Semipinnatae Herba","非处方普通中药材"  ],
+  ["半邊蓮","半边莲","Lobeliae Chinensis Herba","非处方普通中药材"  ],
+  ["四季青","四季青","Ilicis Chinensis Folium","非处方普通中药材"  ],
+  ["玄明粉","玄明粉","Natrii Sulfas Exsiccatus","非处方普通中药材"  ],
+  ["瓜子金","瓜子金","Polygalae Japonicae Herba","非处方普通中药材"  ],
+  ["瓜蔞","瓜蒌","Trichosanthis Fructus","非处方普通中药材"  ],
+  ["瓜蔞子","瓜蒌子","Trichosanthis Semen","非处方普通中药材"  ],
+  ["瓜蔞皮","瓜蒌皮","Trichosanthis Pericarpium","非处方普通中药材"  ],
+  ["瓦松","瓦松","Orostachyis Fimbriatae Herba","非处方普通中药材"  ],
+  ["瓦楞子","瓦楞子","Arcae Concha","非处方普通中药材"  ],
+  ["甘松","甘松","Nardostachyos Radix Et Rhizoma","非处方普通中药材"  ],
+  ["白屈菜","白屈菜","Chelidonii Herba","非处方普通中药材"  ],
+  ["白前","白前","Cynanchi Stauntonii Rhizoma Et Radix","非处方普通中药材"  ],
+  ["白眉草","白眉草","Gerberae Piloselloidis Herba","非处方普通中药材"  ],
+  ["白英","白英","Solani Lyrati Herba","非处方普通中药材"  ],
+  ["白茅花","白茅花","Imperatae Majoris Inflorescentia","非处方普通中药材"  ],
+  ["白頭翁","白头翁","Pulsatillae Radix","非处方普通中药材"  ],
+  ["白薇","白薇","Cynanchi Atrati Radix Et Rhizoma","非处方普通中药材"  ],
+  ["白鮮皮","白鲜皮","Dictamni Cortex","非处方普通中药材"  ],
+  ["白藥子","白药子","Stephaniae Cepharanthae Radix","非处方普通中药材"  ],
+  ["白礬","白矾","Alumen","非处方普通中药材"  ],
+  ["白蘞","白蔹","Ampelopsis Radix","非处方普通中药材"  ],
+  ["石上柏","石上柏","Selaginellae Doederleinii Herba","非处方普通中药材"  ],
+  ["石仙桃","石仙桃","Pholidotae Chinensis Herba","非处方普通中药材"  ],
+  ["石吊蘭","石吊兰","Lysionoti Herba","非处方普通中药材"  ],
+  ["石見穿","石见穿","Salviae Chinensis Herba","非处方普通中药材"  ],
+  ["石韋","石韦","Pyrrosiae Folium","非处方普通中药材"  ],
+  ["石菖蒲","石菖蒲","Acori Tatarinowii Rhizoma","非处方普通中药材"  ],
+  ["石楠葉","石楠叶","Photiniae Folium","非处方普通中药材"  ],
+  ["石榴皮","石榴皮","Granati Pericarpium","非处方普通中药材"  ],
+  ["石燕","石燕","Cyrtiospiriferis Fossilia","非处方普通中药材"  ],
+  ["石蟹","石蟹","Brachyurae Fossllla","非处方普通中药材"  ],
+  ["冰片（合成龍腦）","冰片（合成龙脑）","Borneolum Syntheticum","非处方普通中药材"  ],
+  ["合歡皮","合欢皮","Albiziae Cortex","非处方普通中药材"  ],
+  ["合歡花","合欢花","Albiziae Flos","非处方普通中药材"  ],
+  ["地楓皮","地枫皮","Illicii Cortex","非处方普通中药材"  ],
+  ["地榆","地榆","Sanguisorbae Radix","非处方普通中药材"  ],
+  ["地稔","地稔","Melastomae Herba","非处方普通中药材"  ],
+  ["地膚子","地肤子","Kochiae Fructus","非处方普通中药材"  ],
+  ["地錦草","地锦草","Euphorbiae Humifusae Herba","非处方普通中药材"  ],
+  ["地龍","地龙","Pheretima","非处方普通中药材"  ],
+  ["地膽草","地胆草","Elephantopi Herba","非处方普通中药材"  ],
+  ["安息香","安息香","Benzoinum","非处方普通中药材"  ],
+  ["朱砂根","朱砂根","Ardisiae Crenatae Radix","非处方普通中药材"  ],
+  ["江南卷柏","江南卷柏","Selaginellae Moellendorfii Herba","非处方普通中药材"  ],
+  ["百部","百部","Stemonae Radix","非处方普通中药材"  ],
+  ["竹節參","竹节参","Panacis Japonici Rhizoma","非处方普通中药材"  ],
+  ["竹葉柴胡","竹叶柴胡","Bupleuri Marginati Radix","非处方普通中药材"  ],
+  ["竹瀝","竹沥","Bambusae Succus","非处方普通中药材"  ],
+  ["羊耳菊","羊耳菊","Inulae Cappae Herba","非处方普通中药材"  ],
+  ["老鸛草","老鹳草","Erodii Herba, Geranii Herba","非处方普通中药材"  ],
+  ["自然銅","自然铜","Pyritum","非处方普通中药材"  ],
+  ["艾片（左旋龍腦）","艾片（左旋龙脑）","L-Borneolum","非处方普通中药材"  ],
+  ["艾納香","艾纳香","Blumeae Balsamiferae Folium Et Cacumen","非处方普通中药材"  ],
+  ["血竭","血竭","Draconis Sanguis","非处方普通中药材"  ],
+  ["血餘炭","血余炭","Crinis Carbonisatus","非处方普通中药材"  ],
+  ["西瓜霜","西瓜霜","Mirabilitum Praeparatum","非处方普通中药材"  ],
+  ["西河柳","西河柳","Tamaricis Cacumen","非处方普通中药材"  ],
+  ["西青果","西青果","Chebulae Fructus Immaturus","非处方普通中药材"  ],
+  ["伸筋草","伸筋草","Lycopodii Herba","非处方普通中药材"  ],
+  ["佛手花","佛手花","Citri Sarcodactylis Flos","非处方普通中药材"  ],
+  ["忍冬藤","忍冬藤","Lonicerae Japonicae Caulis","非处方普通中药材"  ],
+  ["扭肚藤","扭肚藤","Jasmini Elongati Cacumen Et Folium","非处方普通中药材"  ],
+  ["扶芳藤","扶芳藤","Euonymi Fortunei Herba","非处方普通中药材"  ],
+  ["杜仲藤","杜仲藤","Parabarii Cortex","非处方普通中药材"  ],
+  ["杠板歸","杠板归","Polygoni Perfoliati Herba","非处方普通中药材"  ],
+  ["沉香","沉香","Aquilariae Lignum Resinatum","非处方普通中药材"  ],
+  ["沒食子","没食子","Galla Turcica","非处方普通中药材"  ],
+  ["沒藥","没药","Myrrha","非处方普通中药材"  ],
+  ["牡荊葉","牡荆叶","Viticis Negundo Folium","非处方普通中药材"  ],
+  ["皂角刺","皂角刺","Gleditsiae Spina","非处方普通中药材"  ],
+  ["皂礬（綠礬）","皂矾（绿矾）","Melanteritum","非处方普通中药材"  ],
+  ["芒硝","芒硝","Natrii Sulfas","非处方普通中药材"  ],
+  ["豆豉薑","豆豉姜","Litseae Radix","非处方普通中药材"  ],
+  ["赤石脂","赤石脂","Halloysitum Rubrum","非处方普通中药材"  ],
+  ["走馬胎","走马胎","Ardisiae Gigantifoliae Radix","非处方普通中药材"  ],
+  ["辛夷","辛夷","Magnoliae Flos","非处方普通中药材"  ],
+  ["防己","防己","Stephaniae Tetrandrae Radix","非处方普通中药材"  ],
+  ["防風","防风","Saposhnikoviae Radix","非处方普通中药材"  ],
+  ["乳香","乳香","Olibanum","非处方普通中药材"  ],
+  ["亞乎奴（錫生藤）","亚乎奴（锡生藤）","Cissampelotis Herba","非处方普通中药材"  ],
+  ["使君子","使君子","Quisqualis Fructus","非处方普通中药材"  ],
+  ["兒茶","儿茶","Catechu","非处方普通中药材"  ],
+  ["刺蝟皮","刺猬皮","Erinacei Corium","非处方普通中药材"  ],
+  ["卷柏","卷柏","Selaginellae Herba","非处方普通中药材"  ],
+  ["夜明砂","夜明砂","Vespertilionis Faeces","非处方普通中药材"  ],
+  ["委陵菜","委陵菜","Potentillae Chinensis Herba","非处方普通中药材"  ],
+  ["岩白菜","岩白菜","Bergeniae Rhizoma","非处方普通中药材"  ],
+  ["延胡索（元胡）","延胡索（元胡）","Corydalis Rhizoma","非处方普通中药材"  ],
+  ["明黨參","明党参","Changii Radix","非处方普通中药材"  ],
+  ["松香","松香","Phonium Colo","非处方普通中药材"  ],
+  ["板藍根","板蓝根","Isatidis Radix","非处方普通中药材"  ],
+  ["油松節","油松节","Pini Lignum Nodi","非处方普通中药材"  ],
+  ["炒瓜蔞子","炒瓜蒌子","Trichosanthis Semen Tostum","非处方普通中药材"  ],
+  ["狗脊","狗脊","Cibotii Rhizoma","非处方普通中药材"  ],
+  ["狗寶","狗宝","Canitis Calculus","非处方普通中药材"  ],
+  ["直立紫堇","直立紫堇","Corydalis Strictae Herba","非处方普通中药材"  ],
+  ["羌活","羌活","Notopterygii Rhizoma Et Radix","非处方普通中药材"  ],
+  ["花蕊石","花蕊石","Ophicalcitum","非处方普通中药材"  ],
+  ["虎杖","虎杖","Polygoni Cuspidati Rhizoma Et Radix","非处方普通中药材"  ],
+  ["金果欖","金果榄","Tinosporae Radix","非处方普通中药材"  ],
+  ["金沸草","金沸草","Inulae Herba","非处方普通中药材"  ],
+  ["金鈕扣","金钮扣","Solani Torvi Ramulus Et Radix","非处方普通中药材"  ],
+  ["金盞銀盤","金盏银盘","Bidentis Herba","非处方普通中药材"  ],
+  ["金精石","金精石","Vermiculitum","非处方普通中药材"  ],
+  ["金錢白花蛇","金钱白花蛇","Bungarus Parvus","非处方普通中药材"  ],
+  ["金錢草","金钱草","Lysimachiae Herba","非处方普通中药材"  ],
+  ["金龍膽草","金龙胆草","Conyzae Herba","非处方普通中药材"  ],
+  ["金礞石","金礞石","Micae Lapis Aureus","非处方普通中药材"  ],
+  ["金櫻根","金樱根","Rosae Laevigatae Radix","非处方普通中药材"  ],
+  ["青天葵","青天葵","Nerviliae Plicatae Herba","非处方普通中药材"  ],
+  ["青風藤","青风藤","Sinomenii Caulis","非处方普通中药材"  ],
+  ["青葉膽","青叶胆","Swertiae Mileensis Herba","非处方普通中药材"  ],
+  ["青蒿","青蒿","Artemisiae Annuae Herba","非处方普通中药材"  ],
+  ["青黛","青黛","Indigo Naturalis","非处方普通中药材"  ],
+  ["青礞石","青礞石","Chloriti Lapis","非处方普通中药材"  ],
+  ["前胡","前胡","Peucedani Radix","非处方普通中药材"  ],
+  ["南天仙子","南天仙子","Hygrophilae Ringens Semen","非处方普通中药材"  ],
+  ["南沙參","南沙参","Adenophorae Radix","非处方普通中药材"  ],
+  ["南寒水石","南寒水石","Calcitum","非处方普通中药材"  ],
+  ["垂盆草","垂盆草","Sedi Herba","非处方普通中药材"  ],
+  ["威靈仙","威灵仙","Clematidis Radix Et Rhizoma","非处方普通中药材"  ],
+  ["枸骨葉","枸骨叶","Ilicis Cornutae Folium","非处方普通中药材"  ],
+  ["柘木","柘木","Cudraniae Tricuspidatae Radix Et Caulis","非处方普通中药材"  ],
+  ["柿蒂","柿蒂","Kaki Calyx","非处方普通中药材"  ],
+  ["柿霜","柿霜","Kaki Mannosum","非处方普通中药材"  ],
+  ["洪連","洪连","Lagotidis Herba","非处方普通中药材"  ],
+  ["炮薑","炮姜","Zingiberis Rhizoma Praeparatum","非处方普通中药材"  ],
+  ["玳瑁","玳瑁","Eretmochelydis Carapax","非处方普通中药材"  ],
+  ["珍珠母","珍珠母","Margaritifera Concha","非处方普通中药材"  ],
+  ["珍珠杆","珍珠杆","Rubi Ideai Caulis","非处方普通中药材"  ],
+  ["相思藤","相思藤","Abri Precatorii Cacumen Et Folium","非处方普通中药材"  ],
+  ["禹州漏蘆","禹州漏芦","Echinopsis Radix","非处方普通中药材"  ],
+  ["禹餘糧","禹余粮","Limonitum","非处方普通中药材"  ],
+  ["穿山甲","穿山甲","Manis Squama","非处方普通中药材"  ],
+  ["穿山龍","穿山龙","Dioscoreae Nipponicae Rhizoma","非处方普通中药材"  ],
+  ["穿心蓮","穿心莲","Andrographis Herba","非处方普通中药材"  ],
+  ["穿壁風","穿壁风","Piperis Wallichii Caulis Et Folium, Piperis Puberuli Caulis Et Folium","非处方普通中药材"  ],
+  ["紅豆蔻","红豆蔻","Galangae Fructus","非处方普通中药材"  ],
+  ["紅花","红花","Carthami Flos","非处方普通中药材"  ],
+  ["紅花龍膽","红花龙胆","Entianae Rhodanthae Herba","非处方普通中药材"  ],
+  ["胡黃連","胡黄连","Picrorhizae Rhizoma","非处方普通中药材"  ],
+  ["苘麻子","苘麻子","Abutili Semen","非处方普通中药材"  ],
+  ["苦木","苦木","Picrasmae Ramulus Et Folium","非处方普通中药材"  ],
+  ["苦冬瓜","苦冬瓜","Benincasae Hispidae Fructus","非处方普通中药材"  ],
+  ["苦玄參","苦玄参","Picriae Herba","非处方普通中药材"  ],
+  ["苦地丁","苦地丁","Corydalis Bungeanae Herba","非处方普通中药材"  ],
+  ["苦參","苦参","Sophorae Flavescentis Radix","非处方普通中药材"  ],
+  ["苦菜","苦菜","Ixeritis Chinensis Herba","非处方普通中药材"  ],
+  ["苧麻根","苧麻根","Boehmeriae Rhizoma Et Radix","非处方普通中药材"  ],
+  ["茄根","茄根","Solani Melongenae Radix Et Caulis","非处方普通中药材"  ],
+  ["茅莓根","茅莓根","Rubi Parvifolii Radix","非处方普通中药材"  ],
+  ["茺蔚子","茺蔚子","Leonuri Fructus","非处方普通中药材"  ],
+  ["降香","降香","Dalbergiae Odoriferae Lignum","非处方普通中药材"  ],
+  ["飛天蠄蟧","飞天蠄蟧","Alsophiae Spinulosae Caulis","非处方普通中药材"  ],
+  ["飛揚草","飞扬草","Euphorbiae Hirtae Herba","非处方普通中药材"  ],
+  ["首烏藤","首乌藤","Polygoni Multiflori Caulis","非处方普通中药材"  ],
+  ["香果脂","香果脂","Linderae Oleum","非处方普通中药材"  ],
+  ["香排草","香排草","Anisochili Radix","非处方普通中药材"  ],
+  ["香榧草","香榧草","Eragrostis Tenellae Herba","非处方普通中药材"  ],
+  ["香樟","香樟","Cinnamomi Radix Et Rhizoma","非处方普通中药材"  ],
+  ["倒扣草","倒扣草","Achyranthis Asperae Herba","非处方普通中药材"  ],
+  ["凌霄花","凌霄花","Campsis Flos","非处方普通中药材"  ],
+  ["夏天無","夏天无","Corydalis Decumbentis Rhizoma","非处方普通中药材"  ],
+  ["娑羅子","娑罗子","Aesculi Semen","非处方普通中药材"  ],
+  ["射干","射干","Belamcandae Rhizoma","非处方普通中药材"  ],
+  ["徐長卿","徐长卿","Cynanchi Paniculati Radix Et Rhizoma","非处方普通中药材"  ],
+  ["拳參","拳参","Bistortae Rhizoma","非处方普通中药材"  ],
+  ["柴胡","柴胡","Bupleuri Radix","非处方普通中药材"  ],
+  ["桂枝","桂枝","Cinnamomi Ramulus","非处方普通中药材"  ],
+  ["桃枝","桃枝","Persicae Ramulus","非处方普通中药材"  ],
+  ["桑螵蛸","桑螵蛸","Mantidis Oötheca","非处方普通中药材"  ],
+  ["浮石","浮石","Pumex","非处方普通中药材"  ],
+  ["浮海石","浮海石","Costaziae Os","非处方普通中药材"  ],
+  ["浮萍","浮萍","Spirodelae Herba","非处方普通中药材"  ],
+  ["海金沙","海金沙","Lygodii Spora","非处方普通中药材"  ],
+  ["海金沙草","海金沙草","Lygodii Herba","非处方普通中药材"  ],
+  ["海風藤","海风藤","Piperis Kadsurae Caulis","非处方普通中药材"  ],
+  ["海桐皮","海桐皮","Erythrinae Cortex","非处方普通中药材"  ],
+  ["海螵蛸","海螵蛸","Sepiae Endoconcha","非处方普通中药材"  ],
+  ["烏毛蕨貫眾","乌毛蕨贯众","Blechni Rhizoma","非处方普通中药材"  ],
+  ["烏藥","乌药","Linderae Radix","非处方普通中药材"  ],
+  ["珠子參","珠子参","Panacis Majoris Rhizoma","非处方普通中药材"  ],
+  ["神曲","神曲","Massa Medicata Fermentata","非处方普通中药材"  ],
+  ["秦皮","秦皮","Fraxini Cortex","非处方普通中药材"  ],
+  ["秦艽","秦艽","Gentianae Macrophyllae Radix","非处方普通中药材"  ],
+  ["粉萆薢","粉萆薢","Dioscoreae Hypoglaucae Rhizoma","非处方普通中药材"  ],
+  ["素馨花","素馨花","Jasmini Flos","非处方普通中药材"  ],
+  ["臭茉莉","臭茉莉","Clerodendri Ramulus Seu Radix","非处方普通中药材"  ],
+  ["臭靈丹草","臭灵丹草","Laggerae Herba","非处方普通中药材"  ],
+  ["草烏芽","草乌芽","Aconiti Kusnezoffii Plantula","非处方普通中药材"  ],
+  ["荊芥","荆芥","Schizonepetae Herba","非处方普通中药材"  ],
+  ["荊芥炭","荆芥炭","Schizonepetae Herba Carbonisata","非处方普通中药材"  ],
+  ["荊芥穗","荆芥穗","Schizonepetae Spica","非处方普通中药材"  ],
+  ["荊芥穗炭","荆芥穗炭","Schizonepetae Spica Carbonisata","非处方普通中药材"  ],
+  ["荔枝核","荔枝核","Litchi Semen","非处方普通中药材"  ],
+  ["馬勃","马勃","Lasiosphaera Calvatia","非处方普通中药材"  ],
+  ["馬檳榔","马槟榔","Capparis Semen","非处方普通中药材"  ],
+  ["馬鞭草","马鞭草","Verbenae Herba","非处方普通中药材"  ],
+  ["馬寶","马宝","Equi Calculus","非处方普通中药材"  ],
+  ["高山辣根菜","高山辣根菜","Pegaeophyti Radix Et Rhizoma","非处方普通中药材"  ],
+  ["鬼羽箭","鬼羽箭","Buchnerae Cruciatae Herba","非处方普通中药材"  ],
+  ["鬼箭羽","鬼箭羽","Euonymi Ramulus","非处方普通中药材"  ],
+  ["假蒟","假蒟","Piperis Sarmentosi Herba","非处方普通中药材"  ],
+  ["參葉","参叶","Panacis Japonicus Folium","非处方普通中药材"  ],
+  ["密蒙花","密蒙花","Buddlejae Flos","非处方普通中药材"  ],
+  ["崗稔","岗稔","Rhodomyrti Radix","非处方普通中药材"  ],
+  ["接骨木","接骨木","Sambuci Williamsii Caulis Et Folium","非处方普通中药材"  ],
+  ["敗醬草","败酱草","Patriniae Herba","非处方普通中药材"  ],
+  ["旋覆花","旋覆花","Inulae Flos","非处方普通中药材"  ],
+  ["梅花","梅花","Mume Flos","非处方普通中药材"  ],
+  ["梧桐子","梧桐子","Firmianae Semen","非处方普通中药材"  ],
+  ["甜地丁","甜地丁","Gueldenstaedtiae Herba","非处方普通中药材"  ],
+  ["羚羊角","羚羊角","Saigae Tataricae Cornu","非处方普通中药材"  ],
+  ["莪大夏","莪大夏","Oxytropis Herba","非处方普通中药材"  ],
+  ["蛇床子","蛇床子","Cnidii Fructus","非处方普通中药材"  ],
+  ["蛇莓","蛇莓","Duchesneae Indicae Herba","非处方普通中药材"  ],
+  ["蛇蛻","蛇蜕","Serpentis Periostracum","非处方普通中药材"  ],
+  ["貫葉金絲桃","贯叶金丝桃","Hyperici Perforati Herba","非处方普通中药材"  ],
+  ["透骨草","透骨草","Speranskiae Tuberculatae Herba","非处方普通中药材"  ],
+  ["通草","通草","Tetrapanacis Medulla","非处方普通中药材"  ],
+  ["通關藤","通关藤","Marsdeniae Tenacissimae Caulis","非处方普通中药材"  ],
+  ["連錢草","连钱草","Glechomae Herba","非处方普通中药材"  ],
+  ["連翹","连翘","Forsythiae Fructus","非处方普通中药材"  ],
+  ["野木瓜","野木瓜","Stauntoniae Caulis Et Folium","非处方普通中药材"  ],
+  ["野牡丹","野牡丹","Melastomae Candidi Herba","非处方普通中药材"  ],
+  ["野馬追","野马追","Eupatorii Lindleyani Herba","非处方普通中药材"  ],
+  ["野薑","野姜","Hedychii Rhizoma","非处方普通中药材"  ],
+  ["陰起石","阴起石","Actinolitum","非处方普通中药材"  ],
+  ["陸英","陆英","Sambuci Herba","非处方普通中药材"  ],
+  ["魚腦石","鱼脑石","Pseudoscinaenae Otolhum","非处方普通中药材"  ],
+  ["鹿角霜","鹿角霜","Cervi Cornu Degelatinatum","非处方普通中药材"  ],
+  ["鹿銜草","鹿衔草","Pyrolae Herba","非处方普通中药材"  ],
+  ["麻花秦艽花","麻花秦艽花","Gentianae Straminiae Flos","非处方普通中药材"  ],
+  ["麻黃","麻黄","Ephedrae Herba","非处方普通中药材"  ],
+  ["麻黃根","麻黄根","Ephedrae Radix Et Rhizoma","非处方普通中药材"  ],
+  ["棕櫚","棕榈","Trachycarpi Petiolus","非处方普通中药材"  ],
+  ["棕櫚子","棕榈子","Trachycarpi Fructus","非处方普通中药材"  ],
+  ["楮實子","楮实子","Broussonetiae Fructus","非处方普通中药材"  ],
+  ["款冬花","款冬花","Farfarae Flos","非处方普通中药材"  ],
+  ["無名異","无名异","Pyrolusitum","非处方普通中药材"  ],
+  ["無患子","无患子","Sapindi Semen","非处方普通中药材"  ],
+  ["無患子果","无患子果","Sapindi Fructus","非处方普通中药材"  ],
+  ["焦梔子","焦栀子","Gardeniae Fructus Praeparatus","非处方普通中药材"  ],
+  ["焦檳榔","焦槟榔","Arecae Semen Tostum","非处方普通中药材"  ],
+  ["琥珀","琥珀","Succinum","非处方普通中药材"  ],
+  ["番瀉葉","番泻叶","Sennae Folium","非处方普通中药材"  ],
+  ["筋骨草","筋骨草","Ajugae Herba","非处方普通中药材"  ],
+  ["紫石英","紫石英","Fluoritum","非处方普通中药材"  ],
+  ["紫河車","紫河车","Hominis Placenta","非处方普通中药材"  ],
+  ["紫花地丁","紫花地丁","Violae Herba","非处方普通中药材"  ],
+  ["紫花前胡","紫花前胡","Peucedani Decursivi Radix","非处方普通中药材"  ],
+  ["紫珠葉","紫珠叶","Callicarpae Formosanae Folium","非处方普通中药材"  ],
+  ["紫草","紫草","Arnebiae Radix","非处方普通中药材"  ],
+  ["紫荊皮","紫荆皮","Cercis Chinensis Cortex","非处方普通中药材"  ],
+  ["紫菀","紫菀","Asteris Radix Et Rhizoma","非处方普通中药材"  ],
+  ["紫萁貫眾","紫萁贯众","Osmundae Rhizoma","非处方普通中药材"  ],
+  ["紫檀香","紫檀香","Pterocarpi Santalini Lignum","非处方普通中药材"  ],
+  ["絡石藤","络石藤","Trachelospermi Caulis Et Folium","非处方普通中药材"  ],
+  ["菊三七","菊三七","Gynurae Japonicae Radix","非处方普通中药材"  ],
+  ["菝葜","菝葜","Smilacis Chinae Rhizoma","非处方普通中药材"  ],
+  ["菥蓂","菥蓂","Thlaspi Herba","非处方普通中药材"  ],
+  ["蛤殼","蛤壳","Meretricis Concha, Cyclinae Concha","非处方普通中药材"  ],
+  ["買麻藤","买麻藤","Gneti Caulis","非处方普通中药材"  ],
+  ["鈎藤","钩藤","Uncariae Ramulus Cum Uncis","非处方普通中药材"  ],
+  ["陽起石","阳起石","Tremolitum","非处方普通中药材"  ],
+  ["雲母石","云母石","Muscovitum","非处方普通中药材"  ],
+  ["黃山藥","黄山药","Dioscoreae Panthaicae Rhizoma","非处方普通中药材"  ],
+  ["黃芩","黄芩","Scutellariae Radix","非处方普通中药材"  ],
+  ["黃柏","黄柏","Phellodendri Chinensis Cortex","非处方普通中药材"  ],
+  ["黃荊子","黄荆子","Viticis Negundo Fructus","非处方普通中药材"  ],
+  ["黃連","黄连","Coptidis Rhizoma","非处方普通中药材"  ],
+  ["黃蜀葵花","黄蜀葵花","Abelmoschi Corolla","非处方普通中药材"  ],
+  ["黃藤","黄藤","Fibraureae Caulis","非处方普通中药材"  ],
+  ["黃藥子","黄药子","Dioscoreae Bulbiferae Rhizoma","非处方普通中药材"  ],
+  ["黑老虎","黑老虎","Kadsurae Coccineae Radix","非处方普通中药材"  ],
+  ["椿皮","椿皮","Ailanthi Cortex","非处方普通中药材"  ],
+  ["楓香脂","枫香脂","Liquidambaris Resina","非处方普通中药材"  ],
+  ["溪黃草","溪黄草","Rabdosiae Herba","非处方普通中药材"  ],
+  ["滇雞血藤","滇鸡血藤","Kadsurae Caulis","非处方普通中药材"  ],
+  ["滑石","滑石","Talcum","非处方普通中药材"  ],
+  ["滑石粉","滑石粉","Talci Pulvis","非处方普通中药材"  ],
+  ["煅石膏","煅石膏","Gypsum Ustum","非处方普通中药材"  ],
+  ["當藥","当药","Swertiae Herba","非处方普通中药材"  ],
+  ["矮地茶","矮地茶","Ardisiae Japonicae Herba","非处方普通中药材"  ],
+  ["硼砂","硼砂","Borax","非处方普通中药材"  ],
+  ["碎骨木","碎骨木","Schoepfia Chinensis Herba, Schoepfia Jasminodora Herba","非处方普通中药材"  ],
+  ["粵絲瓜絡","粤丝瓜络","Luffae Acutangula Fructus Retinervus","非处方普通中药材"  ],
+  ["腫節風","肿节风","Sarcandrae Herba","非处方普通中药材"  ],
+  ["萹蓄","萹蓄","Polygoni Avicularis Herba","非处方普通中药材"  ],
+  ["葉下珠","叶下珠","Phyllanthi Urinariae Herba","非处方普通中药材"  ],
+  ["葎草","葎草","Humuli Scandentis Herba","非处方普通中药材"  ],
+  ["葶藶子","葶苈子","Descurainiae Semenlepidii Semen","非处方普通中药材"  ],
+  ["蜂房","蜂房","Vespae Nidus","非处方普通中药材"  ],
+  ["路路通","路路通","Liquidambaris Fructus","非处方普通中药材"  ],
+  ["過崗龍","过岗龙","Entadae Caulis","非处方普通中药材"  ],
+  ["零陵香","零陵香","Lysimachiae Foeni-Graeci Herba","非处方普通中药材"  ],
+  ["雷丸","雷丸","Omphalia","非处方普通中药材"  ],
+  ["預知子","预知子","Akebiae Fructus","非处方普通中药材"  ],
+  ["鼠婦蟲","鼠妇虫","Armadillidium Vulgare","非处方普通中药材"  ],
+  ["榕樹鬚","榕树须","Fici Microcarpae Aerla Radix","非处方普通中药材"  ],
+  ["榼藤子","榼藤子","Entadae Semen","非处方普通中药材"  ],
+  ["槐角","槐角","Sophorae Fructus","非处方普通中药材"  ],
+  ["滿山紅","满山红","Rhododendri Daurici Folium","非处方普通中药材"  ],
+  ["漏蘆","漏芦","Rhapontici Radix","非处方普通中药材"  ],
+  ["漢桃葉","汉桃叶","Schefflerae Kwangiensis Herba","非处方普通中药材"  ],
+  ["磁石","磁石","Magnetitum","非处方普通中药材"  ],
+  ["綿萆薢","绵萆薢","Dioscoreae Spongiosae Rhizoma","非处方普通中药材"  ],
+  ["蒲黃","蒲黄","Typhae Pollen","非处方普通中药材"  ],
+  ["蒼耳草","苍耳草","Xanthii Herba","非处方普通中药材"  ],
+  ["蓍草","蓍草","Achilleae Herba","非处方普通中药材"  ],
+  ["蜘蛛香","蜘蛛香","Valerianae Jatamansi Rhizoma Et Radix","非处方普通中药材"  ],
+  ["裸花紫珠","裸花紫珠","Callicarpae Nudiflorae Folium","非处方普通中药材"  ],
+  ["豨薟草","豨莶草","Siegesbeckiae Herba","非处方普通中药材"  ],
+  ["銀柴胡","银柴胡","Stellariae Radix","非处方普通中药材"  ],
+  ["銅綠","铜绿","Malachitum","非处方普通中药材"  ],
+  ["鳳仙透骨草","凤仙透骨草","Impatientis Caulis","非处方普通中药材"  ],
+  ["鳳尾草","凤尾草","Pteridis Multifidae Herba","非处方普通中药材"  ],
+  ["僵蠶","僵蚕","Bombyx Batryticatus","非处方普通中药材"  ],
+  ["劉寄奴","刘寄奴","Artemisiae Anomalae Herba","非处方普通中药材"  ],
+  ["寬筋藤","宽筋藤","Tinosporae Sinensis Caulis","非处方普通中药材"  ],
+  ["廣升麻","广升麻","Serratulae Chinensis Radix","非处方普通中药材"  ],
+  ["廣東土牛膝","广东土牛膝","Eupatorii Chinensis Radix","非处方普通中药材"  ],
+  ["廣東合歡花","广东合欢花","Magnoliae Cocis Flos","非处方普通中药材"  ],
+  ["廣東海風藤","广东海风藤","Kadsurae Heteroclitae Caulis","非处方普通中药材"  ],
+  ["廣東紫珠","广东紫珠","Callicarpae Caulis Et Folium","非处方普通中药材"  ],
+  ["廣東紫荊皮","广东紫荆皮","Phyllanthi Emblicae Cortex","非处方普通中药材"  ],
+  ["廣東絡石藤","广东络石藤","Psychotriae Caulis Et Folium","非处方普通中药材"  ],
+  ["廣海桐皮","广海桐皮","Bombacis Cortex","非处方普通中药材"  ],
+  ["廣棗","广枣","Choerospondiatis Fructus","非处方普通中药材"  ],
+  ["暴馬子皮","暴马子皮","Syringae Cortex","非处方普通中药材"  ],
+  ["槲寄生","槲寄生","Visci Herba","非处方普通中药材"  ],
+  ["樟腦（天然）","樟脑（天然）","D-Camphora","非处方普通中药材"  ],
+  ["穀精草","谷精草","Eriocauli Flos","非处方普通中药材"  ],
+  ["蓼大青葉","蓼大青叶","Polygoni Tinctorii Folium","非处方普通中药材"  ],
+  ["蓽澄茄","荜澄茄","Litseae Fructus","非处方普通中药材"  ],
+  ["蔓荊子","蔓荆子","Viticis Fructus","非处方普通中药材"  ],
+  ["蔓荊子根","蔓荆子根","Viticis Trifoliae Radix","非处方普通中药材"  ],
+  ["豬苓","猪苓","Polyporus","非处方普通中药材"  ],
+  ["豬膽粉","猪胆粉","Suis Fellis Pulvis","非处方普通中药材"  ],
+  ["豬籠草","猪笼草","Nepenthis Mirabilis Herba","非处方普通中药材"  ],
+  ["赭石","赭石","Haematitum","非处方普通中药材"  ],
+  ["橘核","橘核","Citri Reticulatae Semen","非处方普通中药材"  ],
+  ["橘絡","橘络","Citri Reticulatae Fructus Retinervus","非处方普通中药材"  ],
+  ["橫經席","横经席","Calophylli Membranacei Herba","非处方普通中药材"  ],
+  ["燈心草","灯心草","Junci Medulla","非处方普通中药材"  ],
+  ["燈盞細辛（燈盞花）","灯盏细辛（灯盏花）","Erigerontis Herba","非处方普通中药材"  ],
+  ["獨一味","独一味","Lamiophlomis Herba","非处方普通中药材"  ],
+  ["獨活","独活","Angelicae Pubescentis Radix","非处方普通中药材"  ],
+  ["獨腳金","独脚金","Strigae Herba","非处方普通中药材"  ],
+  ["蕓薹子","芸薹子","Brassicae Campestris Semen","非处方普通中药材"  ],
+  ["蕤仁","蕤仁","Prinsepiae Nux","非处方普通中药材"  ],
+  ["蕪荑","芜荑","Ulmi Pasta","非处方普通中药材"  ],
+  ["貓爪草","猫爪草","Ranunculi Ternati Radix","非处方普通中药材"  ],
+  ["錦燈籠","锦灯笼","Physalis Calyx Seu Fructus","非处方普通中药材"  ],
+  ["鴨跖草","鸭跖草","Commelinae Herba","非处方普通中药材"  ],
+  ["鴨腳艾","鸭脚艾","Artemisiae Lactiflorae Herba","非处方普通中药材"  ],
+  ["龍骨","龙骨","Os Draconis","非处方普通中药材"  ],
+  ["龍葵","龙葵","Solani Nigri Herba","非处方普通中药材"  ],
+  ["龍齒","龙齿","Dens Draconis","非处方普通中药材"  ],
+  ["龍膽","龙胆","Gentianae Radix Et Rhizoma","非处方普通中药材"  ],
+  ["檀香","檀香","Santali Albi Lignum","非处方普通中药材"  ],
+  ["翼首草","翼首草","Pterocephali Herba","非处方普通中药材"  ],
+  ["聲色草","声色草","Polycarpaeae Corymbosae Herba","非处方普通中药材"  ],
+  ["膽南星","胆南星","Arisaema Cum Bile","非处方普通中药材"  ],
+  ["螻蛄","蝼蛄","Gryllotalpa","非处方普通中药材"  ],
+  ["韓信草","韩信草","Scutellariae Indicae Herba","非处方普通中药材"  ],
+  ["斷血流","断血流","Clinopodii Herba","非处方普通中药材"  ],
+  ["瞿麥","瞿麦","Dianthi Herba","非处方普通中药材"  ],
+  ["翻白草","翻白草","Potentillae Discoloris Herba","非处方普通中药材"  ],
+  ["藁本","藁本","Ligustici Rhizoma Et Radix","非处方普通中药材"  ],
+  ["藍布正","蓝布正","Gei Herba","非处方普通中药材"  ],
+  ["藏菖蒲","藏菖蒲","Acori Calami Rhizoma","非处方普通中药材"  ],
+  ["蟬蛻","蝉蜕","Cicadae Periostracum","非处方普通中药材"  ],
+  ["鎖陽","锁阳","Cynomorii Herba","非处方普通中药材"  ],
+  ["雞血藤","鸡血藤","Spatholobi Caulis","非处方普通中药材"  ],
+  ["雞冠花","鸡冠花","Celosiae Cristatae Flos","非处方普通中药材"  ],
+  ["雞骨香","鸡骨香","Crotonis Crassifolii Radix","非处方普通中药材"  ],
+  ["鵝不食草","鹅不食草","Centipedae Herba","非处方普通中药材"  ],
+  ["藤苦參","藤苦参","Streptocauli Griffithii Radix","非处方普通中药材"  ],
+  ["關黃柏","关黄柏","Phellodendri Amurensis Cortex","非处方普通中药材"  ],
+  ["懸鈎子莖","悬钩子茎","Rubi Lignum","非处方普通中药材"  ],
+  ["爐甘石","炉甘石","Calamina","非处方普通中药材"  ],
+  ["糯稻根","糯稻根","Oryzae Glutinosae Radix","非处方普通中药材"  ],
+  ["蘇木","苏木","Sappan Lignum","非处方普通中药材"  ],
+  ["蘇合香","苏合香","Styrax","非处方普通中药材"  ],
+  ["蘇鐵蕨貫眾","苏铁蕨贯众","Braineae Insignis Rhizoma","非处方普通中药材"  ],
+  ["蠐螬","蛴螬","Holotrichia Diomphalia","非处方普通中药材"  ],
+  ["鐘乳石","钟乳石","Stalactitum","非处方普通中药材"  ],
+  ["纈草","缬草","Valerianae Rhizoma Et Radix","非处方普通中药材"  ],
+  ["續斷","续断","Dipsaci Radix","非处方普通中药材"  ],
+  ["蠟梅花","蜡梅花","Chimonanthi Flos","非处方普通中药材"  ],
+  ["鐵包金","铁包金","Berchemiae Ramulus Et Radix","非处方普通中药材"  ],
+  ["鐵屑","铁屑","Pulvis Ferri","非处方普通中药材"  ],
+  ["鐵掃帚","铁扫帚","Lespedezae Cuneatae Herba","非处方普通中药材"  ],
+  ["鐵莧菜","铁苋菜","Acalyphae Herba","非处方普通中药材"  ],
+  ["鐵線透骨草","铁线透骨草","Clematidis Intricatae Herba","非处方普通中药材"  ],
+  ["露兜簕","露兜簕","Pandani Tectorii Radix Et Rhizoma","非处方普通中药材"  ],
+  ["體外培育牛黃","体外培育牛黄","Bovis Calculus Sativus","非处方普通中药材"  ],
+  ["蠶砂","蚕砂","Bombycis Faeces","非处方普通中药材"  ],
+  ["鷹不泊","鹰不泊","Zanthoxyli Avicennae Radix","非处方普通中药材"  ],
+  ["鷹不撲","鹰不扑","Araliae Armatae Radix","非处方普通中药材"  ],
+  ["鬱金","郁金","Curcumae Radix","非处方普通中药材"  ]
 ]
