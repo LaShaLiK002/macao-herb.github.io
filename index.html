@@ -42,32 +42,45 @@
     h1 {
       font-size: 1.8rem;
       color: var(--text-title);
-      margin-bottom: 2.5rem;
+      margin-bottom: 2rem;
       font-weight: 600;
       letter-spacing: -0.5px;
     }
 
-    .search-container {
-      position: relative;
+    .search-box {
+      display: flex;
       width: 100%;
       max-width: 600px;
+      gap: 0.75rem;
     }
 
     #searchInput {
-      width: 100%;
-      padding: 0.9rem 1.2rem;
-      font-size: 1.1rem;
+      flex: 1;
+      padding: 0.85rem 1.2rem;
+      font-size: 1.05rem;
       border: none;
       border-radius: 24px;
       background: white;
       color: var(--text-body);
       box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
-      transition: box-shadow 0.3s ease;
       outline: none;
     }
 
-    #searchInput:focus {
-      box-shadow: 0 2px 16px rgba(45, 94, 80, 0.2);
+    #searchButton {
+      background: var(--accent);
+      color: white;
+      border: none;
+      border-radius: 24px;
+      padding: 0.85rem 1.4rem;
+      font-size: 1.05rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: background 0.2s;
+      box-shadow: 0 2px 8px rgba(107, 169, 139, 0.3);
+    }
+
+    #searchButton:hover {
+      background: #5a9a7a;
     }
 
     #results {
@@ -106,6 +119,12 @@
       font-size: 1.05rem;
     }
 
+    .loading {
+      text-align: center;
+      padding: 1.5rem;
+      color: var(--text-body);
+    }
+
     footer {
       margin-top: 2.5rem;
       padding: 1.5rem;
@@ -133,20 +152,17 @@
     }
 
     @media (max-width: 600px) {
+      .search-box {
+        flex-direction: column;
+      }
       h1 {
         font-size: 1.5rem;
-        margin-bottom: 2rem;
+        margin-bottom: 1.5rem;
       }
-      #searchInput {
+      #searchInput,
+      #searchButton {
         font-size: 1rem;
-        padding: 0.8rem 1rem;
-      }
-      .result-item {
-        padding: 0.9rem;
-      }
-      .qrcodes img {
-        width: 70px;
-        height: 70px;
+        padding: 0.75rem 1rem;
       }
     }
   </style>
@@ -155,17 +171,19 @@
   <div class="main-content">
     <h1>澳门药材信息查询系统</h1>
 
-    <div class="search-container">
+    <div class="search-box">
       <input
         type="text"
         id="searchInput"
         placeholder="输入学名、中文名或拉丁名（如：人参 补气）"
         autocomplete="off"
-        autofocus
       />
+      <button id="searchButton">查询</button>
     </div>
 
-    <div id="results"></div>
+    <div id="results">
+      <div class="loading">正在加载药材数据…</div>
+    </div>
   </div>
 
   <footer>
@@ -176,65 +194,99 @@
     <p>珠海联选医药科技有限公司 @ 数据来源公开资料</p>
   </footer>
 
+  <!-- 引入 SheetJS (CDN) -->
+  <script src="https://cdn.sheetjs.com/xlsx-0.20.0/package/dist/xlsx.full.min.js"></script>
   <script>
-    let herbs = [];
+    let herbsData = null;
 
-    // 加载 JSON 数据
-    fetch('herbs.json')
-      .then(res => {
-        if (!res.ok) throw new Error('数据文件未找到');
-        return res.json();
-      })
-      .then(data => {
-        herbs = Array.isArray(data) ? data : [];
-        document.getElementById('searchInput').addEventListener('input', handleSearch);
-      })
-      .catch(err => {
-        console.error('加载 herbs.json 失败:', err);
-        // 不显示错误提示，保持界面简洁
+    // 加载 Excel 文件
+    async function loadExcel() {
+      try {
+        const response = await fetch('data.xlsx');
+        if (!response.ok) throw new Error('未找到 data.xlsx 文件');
+        const arrayBuffer = await response.arrayBuffer();
+        const workbook = XLSX.read(arrayBuffer, { type: 'array' });
+        const firstSheetName = workbook.SheetNames[0];
+        const worksheet = workbook.Sheets[firstSheetName];
+        const jsonData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
+
+        if (jsonData.length < 2) throw new Error('Excel 数据为空');
+
+        // 推断表头（第一行为列名）
+        const headers = jsonData[0].map(h => (h || '').toString().trim());
+        const requiredFields = ['学名', '中文名', '拉丁名', '分类'];
+        const fieldIndices = {};
+        for (const field of requiredFields) {
+          const idx = headers.findIndex(h => h === field);
+          if (idx === -1) throw new Error(`Excel 缺少列：“${field}”`);
+          fieldIndices[field] = idx;
+        }
+
+        // 提取数据行
+        herbsData = [];
+        for (let i = 1; i < jsonData.length; i++) {
+          const row = jsonData[i];
+          if (!row || row.length === 0) continue;
+          const item = {};
+          for (const field of requiredFields) {
+            const val = row[fieldIndices[field]];
+            item[field] = val == null ? '' : String(val).trim();
+          }
+          herbsData.push(item);
+        }
+
+        document.getElementById('results').innerHTML = '';
+        setupSearch();
+      } catch (err) {
+        console.error('加载 Excel 失败:', err);
+        document.getElementById('results').innerHTML =
+          '<div class="no-results">数据加载失败，请检查 data.xlsx 是否存在且格式正确。</div>';
+      }
+    }
+
+    function setupSearch() {
+      const input = document.getElementById('searchInput');
+      const button = document.getElementById('searchButton');
+      button.addEventListener('click', performSearch);
+      input.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') performSearch();
       });
+    }
 
-    function handleSearch() {
+    function performSearch() {
       const query = document.getElementById('searchInput').value.trim();
       const container = document.getElementById('results');
 
       if (!query) {
-        container.innerHTML = '';
+        container.innerHTML = '<div class="no-results">请输入关键词</div>';
         return;
       }
 
-      // 分割关键词：支持空格、逗号、中文逗号
       const keywords = query
         .split(/[\s,，]+/)
         .map(k => k.trim().toLowerCase())
-        .filter(k => k.length > 0);
+        .filter(k => k);
 
       if (keywords.length === 0) {
-        container.innerHTML = '';
+        container.innerHTML = '<div class="no-results">请输入有效关键词</div>';
         return;
       }
 
-      // 搜索并打分
-      const matches = herbs
+      const matches = herbsData
         .map(item => {
           let score = 0;
-          const fields = ['学名', '中文名', '拉丁名'];
-          for (const field of fields) {
-            const value = (item[field] || '').toString().toLowerCase();
-            for (const kw of keywords) {
-              if (value === kw) {
-                score += 10; // 完全匹配
-              } else if (value.includes(kw)) {
-                score += 1; // 包含匹配
-              }
-            }
-          }
+          ['学名', '中文名', '拉丁名'].forEach(field => {
+            const val = (item[field] || '').toLowerCase();
+            keywords.forEach(kw => {
+              if (val === kw) score += 10;
+              else if (val.includes(kw)) score += 1;
+            });
+          });
           return { ...item, score };
         })
         .filter(item => item.score > 0)
-        .sort((a, b) => b.score - a.score); // 相关度降序
+        .sort((a, b) => b.score - a.score);
 
-      // 渲染结果
       if (matches.length === 0) {
         container.innerHTML = '<div class="no-results">未有记录</div>';
       } else {
@@ -259,6 +311,9 @@
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#039;');
     }
+
+    // 启动
+    loadExcel();
   </script>
 </body>
 </html>
