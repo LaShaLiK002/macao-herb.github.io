@@ -171,43 +171,79 @@
   <script>
     let herbsData = [];
 
-    function normalizeHeader(header) {
-      const s = String(header).trim().toLowerCase();
-      if (/^学名 $ /.test(s)) return '学名';
-      if (/^中文名|药材名 $ /.test(s)) return '中文名';
-      if (/^拉丁名|学名  $ 拉丁 $   $ /.test(s)) return '拉丁名';
-      if (/^分类|类别 $ /.test(s)) return '分类';
-      return '';
+    // ✅ 增强版列名标准化函数：支持多种常见变体
+    function normalizeHeader(rawHeader) {
+      if (rawHeader == null) return '';
+      let s = String(rawHeader).trim();
+      // 清理全角空格、普通空格、换行
+      s = s.replace(/[\s\u3000]+/g, '');
+      // 转小写便于匹配
+      const lower = s.toLowerCase();
+
+      // 学名（优先保留原始“学名”，但兼容拉丁相关）
+      if (/^学名$/.test(s)) return '学名';
+      if (/拉丁|latin/i.test(lower)) return '拉丁名';
+      if (/中文|chinese|药材名|名称/i.test(lower)) return '中文名';
+      if (/分类|类别|类型|category/i.test(lower)) return '分类';
+
+      // 默认返回原值（用于调试）
+      return s;
     }
 
     async function loadExcel() {
       try {
         const resp = await fetch('data.xlsx?' + Date.now(), { cache: 'no-cache' });
-        if (!resp.ok) throw new Error('未找到 data.xlsx');
+        if (!resp.ok) throw new Error('未找到 data.xlsx 文件');
         const arrayBuffer = await resp.arrayBuffer();
         const workbook = XLSX.read(arrayBuffer, { type: 'array' });
         const worksheet = workbook.Sheets[workbook.SheetNames[0]];
         const rawData = XLSX.utils.sheet_to_json(worksheet, { header: 1 });
 
-        if (rawData.length < 2) throw new Error('Excel 数据为空');
+        if (rawData.length < 2) throw new Error('Excel 至少需要一行表头和一行数据');
 
-        // 解析表头
-        const rawHeaders = rawData[0].map(normalizeHeader);
-        const colIndex = { 学名: -1, 中文名: -1, 拉丁名: -1, 分类: -1 };
-        for (const field of Object.keys(colIndex)) {
-          colIndex[field] = rawHeaders.indexOf(field);
-          if (colIndex[field] === -1) {
-            throw new Error(`缺少列：“ $ {field}”`);
+        // 第一行是表头
+        const rawHeaders = rawData[0];
+        const cleanHeaders = rawHeaders.map(h => normalizeHeader(h));
+
+        // 手动映射四列（允许顺序任意）
+        const colMap = {
+          '学名': -1,
+          '中文名': -1,
+          '拉丁名': -1,
+          '分类': -1
+        };
+
+        // 查找每列的位置
+        for (let i = 0; i < cleanHeaders.length; i++) {
+          const key = cleanHeaders[i];
+          if (key === '学名' || key === '中文名' || key === '拉丁名' || key === '分类') {
+            colMap[key] = i;
           }
+        }
+
+        // 检查是否四列都找到了
+        const missing = [];
+        for (const field of ['学名', '中文名', '拉丁名', '分类']) {
+          if (colMap[field] === -1) {
+            missing.push(field);
+          }
+        }
+
+        if (missing.length > 0) {
+          // 💡 友好提示：列出实际表头供你对照
+          const actualHeaders = rawHeaders.map(h => `"${h}"`).join(', ');
+          throw new Error(`Excel 表头缺失必要字段：${missing.join('、')}。\n实际表头为：${actualHeaders}`);
         }
 
         // 提取数据
         herbsData = [];
-        for (let i = 1; i < rawData.length; i++) {
-          const row = rawData[i];
+        for (let r = 1; r < rawData.length; r++) {
+          const row = rawData[r] || [];
           const item = {};
           for (const field of ['学名', '中文名', '拉丁名', '分类']) {
-            item[field] = row[colIndex[field]] ? String(row[colIndex[field]]).trim() : '';
+            const idx = colMap[field];
+            const cell = idx < row.length ? row[idx] : '';
+            item[field] = (cell == null ? '' : String(cell)).trim();
           }
           herbsData.push(item);
         }
@@ -216,8 +252,9 @@
         setupSearch();
       } catch (err) {
         console.error('加载失败:', err);
+        // 显示更友好的错误（避免 ${field} 未解析）
         document.getElementById('results').innerHTML = 
-          '<div class="no-results">❌ ' + (err.message || '数据加载异常') + '</div>';
+          '<div class="no-results">❌ ' + (err.message || '数据加载异常，请检查 Excel 格式') + '</div>';
       }
     }
 
@@ -263,21 +300,25 @@
       } else {
         container.innerHTML = matches.map(item => `
           <div class="result-item">
-            <h3> $ {escapeHtml(item['中文名'])}</h3>
-            <p><strong>拉丁名：</strong> $ {escapeHtml(item['拉丁名'])}</p>
-            <p><strong>分类：</strong> $ {escapeHtml(item['分类'])}</p>
+            <h3>${escapeHtml(item['中文名'])}</h3>
+            <p><strong>拉丁名：</strong>${escapeHtml(item['拉丁名'])}</p>
+            <p><strong>分类：</strong>${escapeHtml(item['分类'])}</p>
           </div>
         `).join('');
       }
     }
 
     function escapeHtml(text) {
-      return text.replace(/[&<>"']/g, m => 
-        ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#039;' }[m])
-      );
+      if (typeof text !== 'string') return '';
+      return text
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
     }
 
-    // 启动应用
+    // 启动
     if (typeof XLSX !== 'undefined') {
       loadExcel();
     } else {
